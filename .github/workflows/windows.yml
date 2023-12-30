@@ -57,7 +57,7 @@ jobs:
           haxelib git hscript-yoshiengine https://github.com/FNF-CNE-Devs/hscript-improved
           haxelib git flixel-yc29 https://github.com/Yoshman29-FunkinArchive/flixel
           haxelib git flxanimate https://github.com/Dot-Stuff/flxanimate
-          haxelib git discord_rpc_yce https://github.com/Yoshman29-FunkinArchive/LincDiscordRPCButtons
+          haxelib git discord_rpc_yce https://github.com/Snoni/discord-rpc-yce
       - name: compilation
         run: |
           haxelib run lime build windows -dce no
