@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="icon.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="losing0000" x="5" y="5" width="132" height="155" frameX="0" frameY="0" frameWidth="144" frameHeight="155"/>
+	<SubTexture name="losing0001" x="5" y="5" width="132" height="155" frameX="0" frameY="0" frameWidth="144" frameHeight="155"/>
+	<SubTexture name="losing0002" x="142" y="5" width="144" height="155"/>
+	<SubTexture name="losing0003" x="142" y="5" width="144" height="155"/>
+	<SubTexture name="losing0004" x="291" y="5" width="133" height="155" frameX="0" frameY="0" frameWidth="144" frameHeight="155"/>
+	<SubTexture name="losing0005" x="291" y="5" width="133" height="155" frameX="0" frameY="0" frameWidth="144" frameHeight="155"/>
+	<SubTexture name="normal0000" x="5" y="165" width="151" height="156" frameX="0" frameY="-1" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="normal0001" x="161" y="165" width="151" height="156" frameX="0" frameY="-1" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="normal0002" x="317" y="165" width="151" height="156" frameX="0" frameY="-1" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="normal0003" x="5" y="326" width="151" height="156" frameX="0" frameY="-1" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="normal0004" x="161" y="326" width="151" height="156" frameX="0" frameY="-1" frameWidth="151" frameHeight="157"/>
+	<SubTexture name="normal0005" x="317" y="326" width="151" height="156" frameX="0" frameY="-1" frameWidth="151" frameHeight="157"/>
+</TextureAtlas>

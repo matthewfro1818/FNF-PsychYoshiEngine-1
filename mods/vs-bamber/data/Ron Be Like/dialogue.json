@@ -1,0 +1,84 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "heheheheheh i knew you'd do the funny"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "how are you here i literally rapped with you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea but im ronnie not ron from that mod called Vs Ron 3.0 that you should play"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "some of the people who worked on this mod worked for Vs Ron 3.0 as well!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "the mod is really high quality and both The Bamber Team and the Vs Ron team support one another!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what the fuck are you on about"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck you mean \"the bamber team\" did that green little shit make a cult or something"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "surprised",
+			"text": "uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "vowel yelling battle :3"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okie :33"
+		}
+	]
+}

@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:91bd1cccdddfd08a0aff47b992b5a51f:3eefe6124eab35375d125be05c8eb988:ef7663426bf705b25566a93aef3a1571$ -->
+<TextureAtlas imagePath="spritesheet.png" width="8192" height="8192">
+    <SubTexture name="Shred_Down0001" x="1287" y="7373" rotated="true" width="820" height="741" frameX="-214" frameY="-31" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0002" x="2109" y="7373" rotated="true" width="820" height="741" frameX="-214" frameY="-31" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0003" x="3402" y="3950" width="721" height="827" frameX="-234" frameY="-24" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0004" x="3637" y="5364" width="721" height="827" frameX="-234" frameY="-24" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0005" x="4259" y="2" width="719" height="837" frameX="-236" frameY="-15" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0006" x="4259" y="2" width="719" height="837" frameX="-236" frameY="-15" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0007" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0008" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0009" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0010" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0011" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0012" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0013" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0014" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0015" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0016" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0017" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0018" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0019" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0020" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0021" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0022" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0023" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0024" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0025" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0026" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0027" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Down0028" x="3577" y="943" width="719" height="839" frameX="-236" frameY="-13" frameWidth="955" frameHeight="865"/>
+    <SubTexture name="Shred_Idle0001" x="2931" y="7371" rotated="true" width="921" height="731" frameX="-249" frameY="-69" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0002" x="2931" y="7371" rotated="true" width="921" height="731" frameX="-249" frameY="-69" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0003" x="3854" y="7268" width="725" height="922" frameX="-254" frameY="-68" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0004" x="3854" y="7268" width="725" height="922" frameX="-254" frameY="-68" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0005" x="3559" y="2" width="698" height="939" frameX="-256" frameY="-51" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0006" x="3559" y="2" width="698" height="939" frameX="-256" frameY="-51" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0007" x="2023" y="4820" width="692" height="950" frameX="-256" frameY="-40" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0008" x="2023" y="4820" width="692" height="950" frameX="-256" frameY="-40" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0009" x="2866" y="2" width="691" height="952" frameX="-256" frameY="-38" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0010" x="2866" y="2" width="691" height="952" frameX="-256" frameY="-38" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0011" x="2866" y="2" width="691" height="952" frameX="-256" frameY="-38" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0012" x="2866" y="2" width="691" height="952" frameX="-256" frameY="-38" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0013" x="2866" y="2" width="691" height="952" frameX="-256" frameY="-38" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0014" x="2866" y="2" width="691" height="952" frameX="-256" frameY="-38" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0015" x="2866" y="2" width="691" height="952" frameX="-256" frameY="-38" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0016" x="2832" y="3022" width="622" height="926" frameX="-249" frameY="-64" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0017" x="2832" y="3022" width="622" height="926" frameX="-249" frameY="-64" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0018" x="3345" y="1904" width="621" height="925" frameX="-254" frameY="-65" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0019" x="3345" y="1904" width="621" height="925" frameX="-254" frameY="-65" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0020" x="2942" y="956" width="633" height="946" frameX="-256" frameY="-44" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0021" x="2942" y="956" width="633" height="946" frameX="-256" frameY="-44" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0022" x="2607" y="6419" width="639" height="950" frameX="-256" frameY="-40" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0023" x="2607" y="6419" width="639" height="950" frameX="-256" frameY="-40" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0024" x="1964" y="6420" width="641" height="951" frameX="-256" frameY="-39" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0025" x="1964" y="6420" width="641" height="951" frameX="-256" frameY="-39" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0026" x="1964" y="6420" width="641" height="951" frameX="-256" frameY="-39" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0027" x="1964" y="6420" width="641" height="951" frameX="-256" frameY="-39" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0028" x="1964" y="6420" width="641" height="951" frameX="-256" frameY="-39" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0029" x="1964" y="6420" width="641" height="951" frameX="-256" frameY="-39" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Idle0030" x="1964" y="6420" width="641" height="951" frameX="-256" frameY="-39" frameWidth="985" frameHeight="990"/>
+    <SubTexture name="Shred_Left0001" x="2972" y="5372" width="663" height="946" frameX="-138" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0002" x="3248" y="6320" width="663" height="946" frameX="-138" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0003" x="2182" y="3472" width="648" height="949" frameX="-156" frameY="-18" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0004" x="2182" y="3472" width="648" height="949" frameX="-156" frameY="-18" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0005" x="2023" y="5772" rotated="true" width="947" height="645" frameX="-161" frameY="-20" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0006" x="2023" y="5772" rotated="true" width="947" height="645" frameX="-161" frameY="-20" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0007" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0008" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0009" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0010" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0011" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0012" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0013" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0014" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0015" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0016" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0017" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0018" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0019" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0020" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0021" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0022" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0023" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0024" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0025" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0026" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0027" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Left0028" x="2699" y="2074" width="644" height="946" frameX="-162" frameY="-21" frameWidth="820" frameHeight="969"/>
+    <SubTexture name="Shred_Right0001" x="1453" y="2677" width="587" height="1112" frameX="-248" frameY="-16" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0002" x="1599" y="1382" width="587" height="1112" frameX="-248" frameY="-16" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0003" x="1612" y="2" width="586" height="1101" frameX="-246" frameY="-27" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0004" x="1612" y="2" width="586" height="1101" frameX="-246" frameY="-27" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0005" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0006" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0007" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0008" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0009" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0010" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0011" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0012" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0013" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0014" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0015" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0016" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0017" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0018" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0019" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0020" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0021" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0022" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0023" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0024" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0025" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0026" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0027" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Right0028" x="691" y="6575" width="594" height="1099" frameX="-240" frameY="-29" frameWidth="884" frameHeight="1148"/>
+    <SubTexture name="Shred_Up0001" x="2" y="4139" width="516" height="1230" frameX="-242" frameY="-9" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0002" x="2" y="5371" width="516" height="1230" frameX="-242" frameY="-9" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0003" x="520" y="5361" width="544" height="1212" frameX="-222" frameY="-25" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0004" x="520" y="5361" width="544" height="1212" frameX="-222" frameY="-25" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0005" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0006" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0007" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0008" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0009" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0010" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0011" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0012" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0013" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0014" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0015" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0016" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0017" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0018" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0019" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0020" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0021" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0022" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0023" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0024" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0025" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0026" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0027" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Shred_Up0028" x="902" y="2677" width="549" height="1209" frameX="-217" frameY="-27" frameWidth="766" frameHeight="1266"/>
+    <SubTexture name="Undo the shred (sad)0001" x="2200" y="2" width="664" height="965" frameX="-324" frameY="-427" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0002" x="2200" y="2" width="664" height="965" frameX="-324" frameY="-427" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0003" x="1287" y="6420" width="675" height="951" frameX="-324" frameY="-441" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0004" x="1287" y="6420" width="675" height="951" frameX="-324" frameY="-441" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0005" x="2717" y="4423" width="683" height="947" frameX="-324" frameY="-445" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0006" x="2717" y="4423" width="683" height="947" frameX="-324" frameY="-445" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0007" x="2717" y="4423" width="683" height="947" frameX="-324" frameY="-445" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0008" x="2042" y="2496" width="655" height="974" frameX="-324" frameY="-418" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0009" x="2042" y="2496" width="655" height="974" frameX="-324" frameY="-418" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0010" x="1460" y="3791" width="720" height="1027" frameX="-298" frameY="-365" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0011" x="1066" y="5361" width="955" height="1057" frameX="-274" frameY="-335" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0012" x="520" y="4139" width="938" height="1220" frameX="-262" frameY="-172" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0013" x="2" y="1392" width="888" height="1379" frameX="-241" frameY="-13" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0014" x="2" y="2773" width="898" height="1364" frameX="-203" frameY="-28" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0015" x="2" y="2" width="816" height="1388" frameX="-203" frameY="-4" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0016" x="820" y="2" width="790" height="1378" frameX="-207" frameY="-14" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0017" x="892" y="1382" width="705" height="1293" frameX="-246" frameY="-99" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0018" x="2" y="6603" width="687" height="1222" frameX="-265" frameY="-175" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0019" x="2188" y="1105" width="752" height="967" frameX="-203" frameY="-491" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0020" x="4360" y="5330" rotated="true" width="547" height="657" frameX="-298" frameY="-911" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0021" x="4035" y="4779" width="657" height="549" frameX="-291" frameY="-920" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0022" x="4035" y="4779" width="657" height="549" frameX="-291" frameY="-920" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0023" x="3402" y="4779" width="631" height="583" frameX="-296" frameY="-839" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0024" x="3402" y="4779" width="631" height="583" frameX="-296" frameY="-839" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0025" x="3456" y="2831" width="643" height="648" frameX="-269" frameY="-741" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0026" x="3456" y="2831" width="643" height="648" frameX="-269" frameY="-741" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0027" x="3913" y="6193" width="648" height="671" frameX="-248" frameY="-721" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0028" x="3913" y="6193" width="648" height="671" frameX="-248" frameY="-721" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0029" x="3913" y="6193" width="648" height="671" frameX="-248" frameY="-721" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0030" x="3913" y="6193" width="648" height="671" frameX="-248" frameY="-721" frameWidth="1236" frameHeight="1506"/>
+    <SubTexture name="Undo the shred (sad)0031" x="3913" y="6193" width="648" height="671" frameX="-248" frameY="-721" frameWidth="1236" frameHeight="1506"/>
+</TextureAtlas>

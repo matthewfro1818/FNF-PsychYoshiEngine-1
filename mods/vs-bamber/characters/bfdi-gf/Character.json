@@ -1,0 +1,44 @@
+{
+	"arrowColors": [
+		"#E80235",
+		"#E80235",
+		"#E80235",
+		"#E80235"
+	],
+	"camOffset": {
+		"x": -150,
+		"y": 80
+	},
+	"globalOffset": {
+		"x": 265,
+		"y": 470
+	},
+	"healthbarColor": "#9D9D9D",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Curvy Speaker Box",
+			"loop": true,
+			"name": "idle",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}

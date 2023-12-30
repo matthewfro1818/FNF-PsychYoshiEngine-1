@@ -1,0 +1,89 @@
+{
+	"arrowColors": [
+		"#00AF0B",
+		"#00AF0B",
+		"#00AF0B",
+		"#00AF0B"
+	],
+	"camOffset": {
+		"x": 0,
+		"y": 60
+	},
+	"globalOffset": {
+		"x": -81,
+		"y": 436
+	},
+	"healthbarColor": "#EE0000",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Swindled-Idle",
+			"loop": false,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 7,
+			"y": -49,
+			"anim": "Swindled-Down-Sing",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 357,
+			"y": 145,
+			"anim": "Swindled-Right-Sing",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 41,
+			"y": 35,
+			"anim": "Phone",
+			"loop": false,
+			"name": "ziiuvanPaun?",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 43,
+			"y": 126,
+			"anim": "Swindled-Left-Sing",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 4,
+			"y": 137,
+			"anim": "Swindled-Up-Sing",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}

@@ -1,0 +1,84 @@
+{
+                    "scale": 1,
+                    "arrowColors": null,
+                    "flipX": false,
+                    "antialiasing": true,
+                    "healthbarColor": "#339933",
+                    "globalOffset": {
+                        "x": 80,
+		                "y": 400
+                    },
+                    "camOffset": {
+		                "x": -20,
+		                "y": 10
+	                },
+                    "danceSteps": [
+		                "idle"
+	                ],
+                    "healthIconSteps": [
+		                [
+			                20,
+			                0
+		                ],
+		                [
+			                0,
+			                1
+		                ]
+	                ],
+                    "anims": [
+
+                    {
+                        "indices": [],
+                        "x": -2,
+                        "y": 0,
+                        "anim": "Bambi_Idle",
+                        "loop": false,
+                        "name": "idle",
+                        "framerate": 24
+
+                        },{
+                        "indices": [],
+                        "x": 87,
+                        "y": 5,
+                        "anim": "Bambi_Left",
+                        "loop": false,
+                        "name": "singLEFT",
+                        "framerate": 24
+
+                        },{
+                        "indices": [],
+                        "x": -63,
+                        "y": -26,
+                        "anim": "Bambi_Down",
+                        "loop": false,
+                        "name": "singDOWN",
+                        "framerate": 24
+
+                        },{
+                        "indices": [],
+                        "x": 20,
+                        "y": 92,
+                        "anim": "Bambi_Up",
+                        "loop": false,
+                        "name": "singUP",
+                        "framerate": 24
+
+                        },{
+                        "indices": [],
+                        "x": 17,
+                        "y": -13,
+                        "anim": "Bambi_Right",
+                        "loop": false,
+                        "name": "singRIGHT",
+                        "framerate": 24
+
+                        },{
+                        "indices": [],
+                        "x": -37,
+                        "y": 48,
+                        "anim": "Bambi_Alt",
+                        "loop": false,
+                        "name": "ziiuvanPaun?",
+                        "framerate": 24
+
+                        }]}

@@ -1,0 +1,5 @@
+boost the sounds up by 10dB i'd do it myself but i'm too lazy lol
+also there's no "stone1" and "stone2" because those are the "step" and "step2" sounds in the main folder so it wouldnt make sense lol
+
+
+i wont boost the sounds im also too lazy

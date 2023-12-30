@@ -1,0 +1,252 @@
+{
+	"songs": [
+		{
+			"scripts": [],
+			"difficulties": null,
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "yield"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "cornaholic"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "harvest"
+		},
+		{
+			"scripts": [
+				"vs-bamber:data/Synthwheel/modchart"
+			],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "synthwheel"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "yard"
+		},
+		{
+			"scripts": [
+				"vs-bamber:/scripts/3rd strum"
+			],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "coop"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "bob be like"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "ron be like"
+		},
+		{
+			"scripts": [
+				"vs-bamber:/scripts/3rd strum"
+			],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "fortnite duos"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "call-bamber"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "generations"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "memeing"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "astray"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "judgement farm"
+		},
+		{
+			"scripts": [
+				"vs-bamber:/scripts/3rd strum"
+			],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "blusterous day"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "deathbattle"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "swindled"
+		},
+		{
+			"scripts": [
+				"vs-bamber:/scripts/3rd strum"
+			],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "corn n roll"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "trade"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "screencast"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": "MP4-End-Cutscene-custom",
+			"cutscene": "MP4-Cutscene-custom",
+			"name": "squeaky clean"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "placeholder"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "h2o"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "facsimile"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "test footage"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "cornaholic erect remix v1"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "cornaholic v1"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "harvest chill remix"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "harvest v1"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "yield seezee remix"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "yield v1"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "Multiversus"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "yeld"
+		},
+		{
+			"scripts": [],
+			"difficulties": [],
+			"end_cutscene": null,
+			"cutscene": null,
+			"name": "judgement farm 2"
+		}
+	]
+}

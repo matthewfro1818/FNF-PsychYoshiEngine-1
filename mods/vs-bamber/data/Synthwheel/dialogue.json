@@ -1,0 +1,180 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "wave",
+			"text": "Oh, New Visitors, I see!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "You seem to be new faces, eh?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Nah we jus' appeared like a week ago lol"
+		},
+		{
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "You must beeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Davey! Davey Synthwheel! Pleased to meet you, my friend!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "And who might you be?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Boyfriend"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Oh.. Interesting name!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Nah I'm just playin' wit'chu, name's Isaac lmao"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "And who's the girl you brought with yourself?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Name's Gwen! Nice to meet you as well, Davey!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Anyways, your green farmer friend told us about you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Ah! You must've met my long time best friend, Bamber!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "frown",
+			"text": "He usually isn't too fond of people..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "weak",
+			"expression": "worried",
+			"text": "Especially after the events of November 2005..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "weak",
+			"expression": "confused",
+			"text": "...I should probably not ask."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Anyways! Moving On!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "Oh yea, you should sing with me"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "frown",
+			"text": "I don't know, I'm afraid I can't d-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "That wasn't a question. We will sing. Now."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "exclaim",
+			"text": "Alright, but beware! For my musical skills are as good as my grades back in High School!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "ok lol"
+		}
+	]
+}

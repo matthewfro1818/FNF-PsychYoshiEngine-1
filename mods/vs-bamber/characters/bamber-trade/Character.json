@@ -1,0 +1,89 @@
+{
+	"arrowColors": [
+		"#71C419",
+		"#71C419",
+		"#71C419",
+		"#71C419"
+	],
+	"camOffset": {
+		"x": 300,
+		"y": 0
+	},
+	"globalOffset": {
+		"x": 20,
+		"y": 260
+	},
+	"healthbarColor": "#71C419",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "idle",
+			"loop": false,
+			"name": "idle",
+			"framerate": 30
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "dead",
+			"loop": true,
+			"name": "dead",
+			"framerate": 30
+		},
+		{
+			"indices": null,
+			"x": -43,
+			"y": -3,
+			"anim": "right",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 30
+		},
+		{
+			"indices": null,
+			"x": -27,
+			"y": 16,
+			"anim": "down",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 30
+		},
+		{
+			"indices": null,
+			"x": 3,
+			"y": 2,
+			"anim": "up",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 30
+		},
+		{
+			"indices": null,
+			"x": 49,
+			"y": -15,
+			"anim": "left",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 30
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": false,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}

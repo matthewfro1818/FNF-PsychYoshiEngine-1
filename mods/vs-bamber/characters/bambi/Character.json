@@ -1,0 +1,161 @@
+{
+	"arrowColors": [
+		"#0DB402",
+		"#0DB402",
+		"#0DB402",
+		"#0DB402"
+	],
+	"camOffset": {
+		"x": 10,
+		"y": -10
+	},
+	"globalOffset": {
+		"x": 60,
+		"y": 420
+	},
+	"healthbarColor": "#25BF37",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": null,
+			"x": 14,
+			"y": 17,
+			"anim": "miss right",
+			"loop": false,
+			"name": "singRIGHTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 24,
+			"y": -34,
+			"anim": "bambi down",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 24,
+			"y": 11,
+			"anim": "bambi alt right",
+			"loop": false,
+			"name": "singRIGHT-alt",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 79,
+			"y": 14,
+			"anim": "miss left",
+			"loop": false,
+			"name": "singLEFTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 53,
+			"y": 38,
+			"anim": "bambi up",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 26,
+			"y": 3,
+			"anim": "bambi alt left",
+			"loop": false,
+			"name": "singLEFT-alt",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "bambi idle",
+			"loop": false,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 2,
+			"y": 9,
+			"anim": "bambi look",
+			"loop": false,
+			"name": "hey",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 40,
+			"y": 2,
+			"anim": "miss down",
+			"loop": false,
+			"name": "singDOWNmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -9,
+			"y": 8,
+			"anim": "bambi right",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 106,
+			"y": 85,
+			"anim": "bambi phone",
+			"loop": false,
+			"name": "singDOWN-alt",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 65,
+			"y": 40,
+			"anim": "miss up",
+			"loop": false,
+			"name": "singUPmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 40,
+			"y": 24,
+			"anim": "bambi throw",
+			"loop": false,
+			"name": "singUP-alt",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 75,
+			"y": 3,
+			"anim": "bambi left",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}

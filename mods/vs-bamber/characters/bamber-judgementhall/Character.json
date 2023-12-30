@@ -1,0 +1,120 @@
+{
+	"arrowColors": null,
+	"camOffset": {
+		"x": -70,
+		"y": 40
+	},
+	"globalOffset": {
+		"x": 18,
+		"y": 408
+	},
+	"healthbarColor": "#71C419",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": null,
+			"x": -25,
+			"y": -57,
+			"anim": "Bamber Sing Down",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 223,
+			"y": 114,
+			"anim": "Bamber Miss Right",
+			"loop": false,
+			"name": "singLEFTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 18,
+			"y": 72,
+			"anim": "Bamber Miss Left",
+			"loop": false,
+			"name": "singRIGHTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 24,
+			"y": 74,
+			"anim": "Bamber Sing Up",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Bamber Idle",
+			"loop": false,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -16,
+			"y": 43,
+			"anim": "Bamber Phone Break",
+			"loop": false,
+			"name": "ziiuvanPaun?",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 203,
+			"y": 9,
+			"anim": "Bamber Sing Right",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 25,
+			"y": -40,
+			"anim": "Bamber Miss Down",
+			"loop": false,
+			"name": "singDOWNmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 54,
+			"y": 89,
+			"anim": "Bamber Miss Up",
+			"loop": false,
+			"name": "singUPmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -14,
+			"y": -16,
+			"anim": "Bamber Sing Left",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}

@@ -1,0 +1,133 @@
+{
+	"arrowColors": [
+		"#98C1D7",
+		"#AFCBD9",
+		"#BFD2D9",
+		"#AAC6D4"
+	],
+	"camOffset": {
+		"x": -180,
+		"y": 30
+	},
+	"globalOffset": {
+		"x": 0,
+		"y": 0
+	},
+	"healthbarColor": "#6E8FC7",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": [
+				9,
+				10,
+				11
+			],
+			"x": 0,
+			"y": 0,
+			"anim": "idle",
+			"loop": false,
+			"name": "danceRight",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 13,
+			"y": -100,
+			"anim": "down",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 30
+		},
+		{
+			"indices": null,
+			"x": 25,
+			"y": -16,
+			"anim": "ralt",
+			"loop": false,
+			"name": "singRIGHT-alt",
+			"framerate": 30
+		},
+		{
+			"indices": [
+				1,
+				2
+			],
+			"x": 0,
+			"y": 0,
+			"anim": "idle",
+			"loop": false,
+			"name": "danceLeft",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 116,
+			"y": 19,
+			"anim": "up",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 30
+		},
+		{
+			"indices": null,
+			"x": 137,
+			"y": -49,
+			"anim": "lalt",
+			"loop": false,
+			"name": "singLEFT-alt",
+			"framerate": 30
+		},
+		{
+			"indices": null,
+			"x": 29,
+			"y": -13,
+			"anim": "right",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 30
+		},
+		{
+			"indices": null,
+			"x": 12,
+			"y": -97,
+			"anim": "dalt",
+			"loop": false,
+			"name": "singDOWN-alt",
+			"framerate": 30
+		},
+		{
+			"indices": null,
+			"x": 137,
+			"y": -48,
+			"anim": "left",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 30
+		},
+		{
+			"indices": null,
+			"x": 113,
+			"y": 16,
+			"anim": "ualt",
+			"loop": false,
+			"name": "singUP-alt",
+			"framerate": 30
+		}
+	],
+	"danceSteps": [
+		"danceLeft",
+		"danceRight"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1.9
+}

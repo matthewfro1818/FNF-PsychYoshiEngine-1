@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:49d762b8e52fcc8600aaf50d06d57c40:0022fe3d8980afe839ece1c652f6d454:ef7663426bf705b25566a93aef3a1571$ -->
+<TextureAtlas imagePath="spritesheet.png" width="9474" height="1011">
+    <SubTexture name="Corny-Down0001" x="6880" y="515" width="401" height="463" frameX="-156" frameY="-323" frameWidth="570" frameHeight="788"/>
+    <SubTexture name="Corny-Down0002" x="2" y="595" width="397" height="413" frameX="-146" frameY="-373" frameWidth="570" frameHeight="788"/>
+    <SubTexture name="Corny-Down0003" x="971" y="592" rotated="true" width="390" height="405" frameX="-134" frameY="-396" frameWidth="570" frameHeight="788"/>
+    <SubTexture name="Corny-Down0004" x="9053" y="433" width="419" height="393" frameX="-118" frameY="-394" frameWidth="570" frameHeight="788"/>
+    <SubTexture name="Corny-Down0005" x="8981" y="2" rotated="true" width="419" height="429" frameX="-100" frameY="-369" frameWidth="570" frameHeight="788"/>
+    <SubTexture name="Corny-Down0006" x="7283" y="515" width="441" height="462" frameX="-88" frameY="-326" frameWidth="570" frameHeight="788"/>
+    <SubTexture name="Corny-Down0007" x="3452" y="529" width="440" height="477" frameX="-91" frameY="-311" frameWidth="570" frameHeight="788"/>
+    <SubTexture name="Corny-Down0008" x="3452" y="529" width="440" height="477" frameX="-91" frameY="-311" frameWidth="570" frameHeight="788"/>
+    <SubTexture name="Corny-Down0009" x="3452" y="529" width="440" height="477" frameX="-91" frameY="-311" frameWidth="570" frameHeight="788"/>
+    <SubTexture name="Corny-Gasp" x="1363" y="580" rotated="true" width="527" height="429" frameX="-88" frameY="-268" frameWidth="591" frameHeight="795"/>
+    <SubTexture name="Corny-Idle0001" x="7224" y="2" width="460" height="511" frameX="-110" frameY="-282" frameWidth="598" frameHeight="797"/>
+    <SubTexture name="Corny-Idle0002" x="3894" y="529" rotated="true" width="502" height="476" frameX="-104" frameY="-288" frameWidth="598" frameHeight="797"/>
+    <SubTexture name="Corny-Idle0003" x="5373" y="520" rotated="true" width="497" height="488" frameX="-98" frameY="-291" frameWidth="598" frameHeight="797"/>
+    <SubTexture name="Corny-Idle0004" x="5872" y="519" rotated="true" width="497" height="484" frameX="-96" frameY="-293" frameWidth="598" frameHeight="797"/>
+    <SubTexture name="Corny-Idle0005" x="2948" y="534" rotated="true" width="502" height="475" frameX="-94" frameY="-289" frameWidth="598" frameHeight="797"/>
+    <SubTexture name="Corny-Idle0006" x="6371" y="516" rotated="true" width="507" height="463" frameX="-93" frameY="-284" frameWidth="598" frameHeight="797"/>
+    <SubTexture name="Corny-Idle0007" x="2423" y="552" rotated="true" width="523" height="457" frameX="-92" frameY="-271" frameWidth="598" frameHeight="797"/>
+    <SubTexture name="Corny-Idle0008" x="2637" y="2" width="454" height="530" frameX="-93" frameY="-266" frameWidth="598" frameHeight="797"/>
+    <SubTexture name="Corny-Idle0009" x="1892" y="557" rotated="true" width="529" height="449" frameX="-100" frameY="-268" frameWidth="598" frameHeight="797"/>
+    <SubTexture name="Corny-Idle0010" x="3093" y="2" width="443" height="525" frameX="-106" frameY="-272" frameWidth="598" frameHeight="797"/>
+    <SubTexture name="Corny-Idle0011" x="3979" y="2" width="438" height="525" frameX="-108" frameY="-272" frameWidth="598" frameHeight="797"/>
+    <SubTexture name="Corny-Idle0012" x="3538" y="2" width="439" height="525" frameX="-107" frameY="-272" frameWidth="598" frameHeight="797"/>
+    <SubTexture name="Corny-Idle0013" x="3538" y="2" width="439" height="525" frameX="-107" frameY="-272" frameWidth="598" frameHeight="797"/>
+    <SubTexture name="Corny-Idle0014" x="3538" y="2" width="439" height="525" frameX="-107" frameY="-272" frameWidth="598" frameHeight="797"/>
+    <SubTexture name="Corny-Left0001" x="5355" y="2" width="423" height="516" frameX="-100" frameY="-279" frameWidth="535" frameHeight="796"/>
+    <SubTexture name="Corny-Left0002" x="7686" y="2" width="423" height="507" frameX="-56" frameY="-289" frameWidth="535" frameHeight="796"/>
+    <SubTexture name="Corny-Left0003" x="8111" y="2" width="436" height="504" frameX="-40" frameY="-292" frameWidth="535" frameHeight="796"/>
+    <SubTexture name="Corny-Left0004" x="8170" y="508" width="439" height="500" frameX="-37" frameY="-295" frameWidth="535" frameHeight="796"/>
+    <SubTexture name="Corny-Left0005" x="7726" y="511" width="442" height="497" frameX="-39" frameY="-298" frameWidth="535" frameHeight="796"/>
+    <SubTexture name="Corny-Left0006" x="8611" y="507" width="440" height="499" frameX="-59" frameY="-295" frameWidth="535" frameHeight="796"/>
+    <SubTexture name="Corny-Left0007" x="8549" y="2" width="430" height="503" frameX="-76" frameY="-291" frameWidth="535" frameHeight="796"/>
+    <SubTexture name="Corny-Left0008" x="8549" y="2" width="430" height="503" frameX="-76" frameY="-291" frameWidth="535" frameHeight="796"/>
+    <SubTexture name="Corny-Left0009" x="8549" y="2" width="430" height="503" frameX="-76" frameY="-291" frameWidth="535" frameHeight="796"/>
+    <SubTexture name="Corny-Right0001" x="4398" y="529" rotated="true" width="462" height="472" frameX="-145" frameY="-329" frameWidth="669" frameHeight="792"/>
+    <SubTexture name="Corny-Right0002" x="4862" y="521" width="509" height="488" frameX="-140" frameY="-303" frameWidth="669" frameHeight="792"/>
+    <SubTexture name="Corny-Right0003" x="5780" y="2" rotated="true" width="496" height="515" frameX="-139" frameY="-295" frameWidth="669" frameHeight="792"/>
+    <SubTexture name="Corny-Right0004" x="6718" y="2" rotated="true" width="504" height="511" frameX="-140" frameY="-287" frameWidth="669" frameHeight="792"/>
+    <SubTexture name="Corny-Right0005" x="4419" y="2" width="486" height="517" frameX="-144" frameY="-275" frameWidth="669" frameHeight="792"/>
+    <SubTexture name="Corny-Right0006" x="4907" y="2" width="446" height="517" frameX="-147" frameY="-275" frameWidth="669" frameHeight="792"/>
+    <SubTexture name="Corny-Right0007" x="6278" y="2" width="438" height="512" frameX="-148" frameY="-280" frameWidth="669" frameHeight="792"/>
+    <SubTexture name="Corny-Right0008" x="6278" y="2" width="438" height="512" frameX="-148" frameY="-280" frameWidth="669" frameHeight="792"/>
+    <SubTexture name="Corny-Right0009" x="6278" y="2" width="438" height="512" frameX="-148" frameY="-280" frameWidth="669" frameHeight="792"/>
+    <SubTexture name="Corny-Right0010" x="6278" y="2" width="438" height="512" frameX="-148" frameY="-280" frameWidth="669" frameHeight="792"/>
+    <SubTexture name="Corny-Up0001" x="401" y="595" rotated="true" width="568" height="408" frameX="-95" frameY="-242" frameWidth="515" frameHeight="817"/>
+    <SubTexture name="Corny-Up0002" x="907" y="2" width="442" height="588" frameX="-63" frameY="-227" frameWidth="515" frameHeight="817"/>
+    <SubTexture name="Corny-Up0003" x="2" y="2" width="451" height="591" frameX="-45" frameY="-226" frameWidth="515" frameHeight="817"/>
+    <SubTexture name="Corny-Up0004" x="455" y="2" width="450" height="589" frameX="-41" frameY="-228" frameWidth="515" frameHeight="817"/>
+    <SubTexture name="Corny-Up0005" x="1351" y="2" width="436" height="576" frameX="-49" frameY="-238" frameWidth="515" frameHeight="817"/>
+    <SubTexture name="Corny-Up0006" x="1789" y="2" width="424" height="553" frameX="-70" frameY="-255" frameWidth="515" frameHeight="817"/>
+    <SubTexture name="Corny-Up0007" x="2215" y="2" width="420" height="548" frameX="-82" frameY="-258" frameWidth="515" frameHeight="817"/>
+    <SubTexture name="Corny-Up0008" x="2215" y="2" width="420" height="548" frameX="-82" frameY="-258" frameWidth="515" frameHeight="817"/>
+    <SubTexture name="Corny-Up0009" x="2215" y="2" width="420" height="548" frameX="-82" frameY="-258" frameWidth="515" frameHeight="817"/>
+</TextureAtlas>

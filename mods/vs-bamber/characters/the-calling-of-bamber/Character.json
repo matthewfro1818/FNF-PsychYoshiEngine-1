@@ -1,0 +1,138 @@
+{
+	"arrowColors": null,
+	"camOffset": {
+		"x": -220,
+		"y": 200
+	},
+	"globalOffset": {
+		"x": -42,
+		"y": -342
+	},
+	"healthbarColor": "#71C419",
+	"flipX": true,
+	"anims": [
+		{
+			"indices": null,
+			"x": -8,
+			"y": -383,
+			"anim": "Death_Continue",
+			"loop": false,
+			"name": "deathLoop",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -70,
+			"y": -387,
+			"anim": "RMiss",
+			"loop": false,
+			"name": "singRIGHTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 21,
+			"y": -11,
+			"anim": "Down",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 19,
+			"y": -383,
+			"anim": "LMiss",
+			"loop": false,
+			"name": "singLEFTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -20,
+			"y": 17,
+			"anim": "Up",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 64,
+			"y": -383,
+			"anim": "Death_End",
+			"loop": false,
+			"name": "deathConfirm",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 165,
+			"y": -338,
+			"anim": "Death_Start",
+			"loop": false,
+			"name": "firstDeath",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Idle",
+			"loop": false,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 4,
+			"y": -381,
+			"anim": "DMiss",
+			"loop": false,
+			"name": "singDOWNmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -2,
+			"y": -8,
+			"anim": "Right",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -66,
+			"y": -350,
+			"anim": "UMiss",
+			"loop": false,
+			"name": "singUPmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -8,
+			"y": 0,
+			"anim": "Left",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}

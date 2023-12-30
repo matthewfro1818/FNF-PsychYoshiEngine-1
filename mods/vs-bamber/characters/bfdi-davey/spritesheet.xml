@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:20c44379b80341724989f2b25752388f:768d5036ff0a2452b63e96451749a832:ef7663426bf705b25566a93aef3a1571$ -->
+<TextureAtlas imagePath="spritesheet.png" width="2010" height="6785">
+    <SubTexture name="Davey-Down0001" x="506" y="5842" width="500" height="442" frameX="-5" frameY="-63" frameWidth="509" frameHeight="506"/>
+    <SubTexture name="Davey-Down0002" x="1030" y="4342" width="507" height="424" frameX="-1" frameY="-82" frameWidth="509" frameHeight="506"/>
+    <SubTexture name="Davey-Down0003" x="1030" y="3920" width="509" height="420" frameX="0" frameY="-86" frameWidth="509" frameHeight="506"/>
+    <SubTexture name="Davey-Down0004" x="1579" y="2927" rotated="true" width="427" height="501" frameX="-5" frameY="-79" frameWidth="509" frameHeight="506"/>
+    <SubTexture name="Davey-Down0005" x="1513" y="5831" width="485" height="438" frameX="-14" frameY="-68" frameWidth="509" frameHeight="506"/>
+    <SubTexture name="Davey-Down0006" x="1545" y="3882" width="456" height="444" frameX="-29" frameY="-62" frameWidth="509" frameHeight="506"/>
+    <SubTexture name="Davey-Down0007" x="1545" y="3430" width="458" height="450" frameX="-28" frameY="-56" frameWidth="509" frameHeight="506"/>
+    <SubTexture name="Davey-Down0008" x="1545" y="3430" width="458" height="450" frameX="-28" frameY="-56" frameWidth="509" frameHeight="506"/>
+    <SubTexture name="Davey-Down0009" x="1545" y="3430" width="458" height="450" frameX="-28" frameY="-56" frameWidth="509" frameHeight="506"/>
+    <SubTexture name="Davey-Gasp" x="1529" y="4830" width="479" height="499" frameX="0" frameY="-53" frameWidth="479" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0001" x="517" y="3877" rotated="true" width="511" height="482" frameX="-83" frameY="-39" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0002" x="1064" y="2927" rotated="true" width="513" height="491" frameX="-78" frameY="-38" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0003" x="2" y="3888" rotated="true" width="510" height="496" frameX="-75" frameY="-41" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0004" x="1032" y="3420" rotated="true" width="511" height="498" frameX="-74" frameY="-40" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0005" x="545" y="2895" rotated="true" width="517" height="491" frameX="-78" frameY="-35" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0006" x="1162" y="2439" rotated="true" width="522" height="486" frameX="-76" frameY="-30" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0007" x="517" y="3388" rotated="true" width="513" height="487" frameX="-62" frameY="-39" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0008" x="2" y="5365" rotated="true" width="502" height="492" frameX="-58" frameY="-50" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0009" x="1519" y="5331" width="487" height="498" frameX="-63" frameY="-54" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0010" x="1008" y="6268" rotated="true" width="499" height="482" frameX="-71" frameY="-53" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0011" x="1008" y="6268" rotated="true" width="499" height="482" frameX="-71" frameY="-53" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0012" x="1008" y="6268" rotated="true" width="499" height="482" frameX="-71" frameY="-53" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0013" x="1008" y="6268" rotated="true" width="499" height="482" frameX="-71" frameY="-53" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0014" x="1008" y="6268" rotated="true" width="499" height="482" frameX="-71" frameY="-53" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0015" x="1008" y="6268" rotated="true" width="499" height="482" frameX="-71" frameY="-53" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0016" x="618" y="2402" width="542" height="491" frameX="-23" frameY="-59" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0017" x="1416" y="984" width="562" height="491" frameX="-7" frameY="-60" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0018" x="1433" y="2" width="571" height="489" frameX="0" frameY="-62" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0019" x="1429" y="493" width="568" height="489" frameX="-4" frameY="-62" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0020" x="2" y="2889" width="541" height="494" frameX="-28" frameY="-58" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0021" x="2" y="3385" width="513" height="501" frameX="-49" frameY="-51" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0022" x="510" y="4866" rotated="true" width="503" height="476" frameX="-73" frameY="-49" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0023" x="2" y="4889" rotated="true" width="503" height="474" frameX="-76" frameY="-49" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0024" x="1541" y="4328" width="465" height="500" frameX="-85" frameY="-52" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0025" x="1509" y="6271" rotated="true" width="499" height="472" frameX="-78" frameY="-53" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0026" x="1509" y="6271" rotated="true" width="499" height="472" frameX="-78" frameY="-53" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0027" x="1509" y="6271" rotated="true" width="499" height="472" frameX="-78" frameY="-53" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0028" x="1509" y="6271" rotated="true" width="499" height="472" frameX="-78" frameY="-53" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0029" x="1509" y="6271" rotated="true" width="499" height="472" frameX="-78" frameY="-53" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Idle0030" x="1509" y="6271" rotated="true" width="499" height="472" frameX="-78" frameY="-53" frameWidth="572" frameHeight="552"/>
+    <SubTexture name="Davey-Left0001" x="2" y="4386" width="506" height="501" frameX="-174" frameY="-57" frameWidth="697" frameHeight="558"/>
+    <SubTexture name="Davey-Left0002" x="638" y="1896" width="627" height="504" frameX="-49" frameY="-54" frameWidth="697" frameHeight="558"/>
+    <SubTexture name="Davey-Left0003" x="2" y="1378" width="676" height="504" frameX="0" frameY="-54" frameWidth="697" frameHeight="558"/>
+    <SubTexture name="Davey-Left0004" x="680" y="1390" width="666" height="504" frameX="-11" frameY="-54" frameWidth="697" frameHeight="558"/>
+    <SubTexture name="Davey-Left0005" x="2" y="1884" width="634" height="501" frameX="-46" frameY="-57" frameWidth="697" frameHeight="558"/>
+    <SubTexture name="Davey-Left0006" x="2" y="2387" width="614" height="500" frameX="-75" frameY="-58" frameWidth="697" frameHeight="558"/>
+    <SubTexture name="Davey-Left0007" x="1267" y="1937" width="599" height="500" frameX="-98" frameY="-58" frameWidth="697" frameHeight="558"/>
+    <SubTexture name="Davey-Left0008" x="1267" y="1937" width="599" height="500" frameX="-98" frameY="-58" frameWidth="697" frameHeight="558"/>
+    <SubTexture name="Davey-Left0009" x="1267" y="1937" width="599" height="500" frameX="-98" frameY="-58" frameWidth="697" frameHeight="558"/>
+    <SubTexture name="Davey-Right0001" x="1011" y="5774" width="500" height="492" frameX="-14" frameY="-55" frameWidth="519" frameHeight="547"/>
+    <SubTexture name="Davey-Right0002" x="507" y="5344" width="502" height="496" frameX="-16" frameY="-51" frameWidth="519" frameHeight="547"/>
+    <SubTexture name="Davey-Right0003" x="514" y="4361" rotated="true" width="506" height="503" frameX="-16" frameY="-41" frameWidth="519" frameHeight="547"/>
+    <SubTexture name="Davey-Right0004" x="1022" y="4768" rotated="true" width="505" height="502" frameX="-15" frameY="-42" frameWidth="519" frameHeight="547"/>
+    <SubTexture name="Davey-Right0005" x="1015" y="5272" rotated="true" width="502" height="500" frameX="-10" frameY="-45" frameWidth="519" frameHeight="547"/>
+    <SubTexture name="Davey-Right0006" x="2" y="5859" rotated="true" width="499" height="498" frameX="-5" frameY="-48" frameWidth="519" frameHeight="547"/>
+    <SubTexture name="Davey-Right0007" x="503" y="6286" width="498" height="497" frameX="-3" frameY="-50" frameWidth="519" frameHeight="547"/>
+    <SubTexture name="Davey-Right0008" x="503" y="6286" width="498" height="497" frameX="-3" frameY="-50" frameWidth="519" frameHeight="547"/>
+    <SubTexture name="Davey-Right0009" x="503" y="6286" width="498" height="497" frameX="-3" frameY="-50" frameWidth="519" frameHeight="547"/>
+    <SubTexture name="Davey-Up0001" x="1348" y="1477" width="655" height="458" frameX="-60" frameY="-116" frameWidth="722" frameHeight="574"/>
+    <SubTexture name="Davey-Up0002" x="712" y="933" width="702" height="455" frameX="-14" frameY="-119" frameWidth="722" frameHeight="574"/>
+    <SubTexture name="Davey-Up0003" x="2" y="2" width="714" height="450" frameX="0" frameY="-124" frameWidth="722" frameHeight="574"/>
+    <SubTexture name="Davey-Up0004" x="2" y="454" width="713" height="454" frameX="-3" frameY="-120" frameWidth="722" frameHeight="574"/>
+    <SubTexture name="Davey-Up0005" x="718" y="2" width="713" height="464" frameX="-6" frameY="-110" frameWidth="722" frameHeight="574"/>
+    <SubTexture name="Davey-Up0006" x="2" y="910" width="708" height="466" frameX="-12" frameY="-108" frameWidth="722" frameHeight="574"/>
+    <SubTexture name="Davey-Up0007" x="717" y="468" width="710" height="463" frameX="-12" frameY="-111" frameWidth="722" frameHeight="574"/>
+    <SubTexture name="Davey-Up0008" x="717" y="468" width="710" height="463" frameX="-12" frameY="-111" frameWidth="722" frameHeight="574"/>
+    <SubTexture name="Davey-Up0009" x="717" y="468" width="710" height="463" frameX="-12" frameY="-111" frameWidth="722" frameHeight="574"/>
+</TextureAtlas>

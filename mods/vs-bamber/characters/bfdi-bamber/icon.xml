@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:5ef02ee4c065af48593e6d957e615536:263047f3fd4636cdd70cdd9b04109aa1:ea6b0f4e063aa2ba40a2df8e43d4b5f4$ -->
+<TextureAtlas imagePath="icon.png" width="512" height="1024">
+    <SubTexture name="losing0000" x="112" y="322" rotated="true" width="108" height="103" frameX="-23" frameY="-20" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0001" x="222" y="630" rotated="true" width="107" height="101" frameX="-25" frameY="-20" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0002" x="222" y="526" rotated="true" width="108" height="102" frameX="-24" frameY="-20" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0003" x="225" y="211" rotated="true" width="109" height="103" frameX="-23" frameY="-20" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0004" x="112" y="532" rotated="true" width="108" height="102" frameX="-24" frameY="-20" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0005" x="332" y="526" rotated="true" width="107" height="103" frameX="-24" frameY="-20" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0006" x="2" y="110" rotated="true" width="109" height="104" frameX="-23" frameY="-20" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0007" x="338" y="107" rotated="true" width="110" height="102" frameX="-25" frameY="-19" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0008" x="114" y="2" rotated="true" width="110" height="105" frameX="-23" frameY="-19" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0009" x="114" y="109" rotated="true" width="109" height="106" frameX="-22" frameY="-19" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0010" x="335" y="420" rotated="true" width="108" height="104" frameX="-24" frameY="-19" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0011" x="2" y="2" rotated="true" width="110" height="106" frameX="-22" frameY="-19" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0012" x="2" y="216" rotated="true" width="109" height="104" frameX="-24" frameY="-19" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0013" x="113" y="217" rotated="true" width="109" height="103" frameX="-25" frameY="-19" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0014" x="226" y="108" rotated="true" width="110" height="101" frameX="-27" frameY="-19" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0015" x="222" y="421" rotated="true" width="108" height="103" frameX="-25" frameY="-19" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0016" x="226" y="2" rotated="true" width="110" height="104" frameX="-24" frameY="-19" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0017" x="338" y="2" rotated="true" width="110" height="103" frameX="-24" frameY="-19" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0018" x="112" y="427" rotated="true" width="108" height="103" frameX="-24" frameY="-19" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0019" x="2" y="428" rotated="true" width="108" height="103" frameX="-24" frameY="-19" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0020" x="336" y="211" rotated="true" width="109" height="103" frameX="-23" frameY="-20" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0021" x="2" y="533" rotated="true" width="108" height="102" frameX="-24" frameY="-20" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0022" x="2" y="322" rotated="true" width="108" height="104" frameX="-22" frameY="-20" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0023" x="224" y="316" rotated="true" width="109" height="103" frameX="-23" frameY="-20" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="losing0024" x="335" y="316" rotated="true" width="109" height="102" frameX="-24" frameY="-20" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="normal0000" x="112" y="636" rotated="true" width="104" height="102" frameX="-24" frameY="-25" frameWidth="150" frameHeight="150"/>
+</TextureAtlas>

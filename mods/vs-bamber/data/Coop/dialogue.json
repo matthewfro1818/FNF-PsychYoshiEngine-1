@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bamber",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "HEY!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey-p",
+			"boxState": "normal",
+			"expression": "wave",
+			"text": "Oh! Bamber! You're finally here!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bamber",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "And what are THEY doing here...?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "We looked for Davey, just like you told us!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bamber",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "I NEVER TOLD YOU TO LOOK FOR HIM!!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bamber",
+			"boxState": "weak",
+			"expression": "annoyed",
+			"text": "Alright. Tell you what!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bamber",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Beat BOTH OF US in a rap battle, and I'll be chill with y'all"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "Both? Count me in! I'm not letting there be a 2v1!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "frown",
+			"text": "Oh, you can sing as well?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Why, yes!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Aight enough stallin' Let's get it!"
+		}
+	]
+}

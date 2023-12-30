@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:8c2695c6635dae7876d8a39853e55e68:3d289b359dfdbe877e6baf15b72cd3eb:513eb8829276eae14d18b9a105352517$ -->
+<TextureAtlas imagePath="fight.png" width="3944" height="1266">
+    <SubTexture name="fight0001" x="3542" y="828" rotated="true" width="211" height="144" frameX="-160" frameY="-107" frameWidth="1047" frameHeight="589"/>
+    <SubTexture name="fight0002" x="2" y="844" width="771" height="420" frameX="-94" frameY="-141" frameWidth="1047" frameHeight="589"/>
+    <SubTexture name="fight0003" x="3542" y="2" rotated="true" width="400" height="824" frameX="-109" frameY="-161" frameWidth="1047" frameHeight="589"/>
+    <SubTexture name="fight0004" x="2" y="2" rotated="true" width="448" height="840" frameX="-94" frameY="-113" frameWidth="1047" frameHeight="589"/>
+    <SubTexture name="fight0005" x="3154" y="2" rotated="true" width="386" height="825" frameX="-109" frameY="-175" frameWidth="1047" frameHeight="589"/>
+    <SubTexture name="fight0006" x="920" y="2" rotated="true" width="496" height="825" frameX="-109" frameY="-65" frameWidth="1047" frameHeight="589"/>
+    <SubTexture name="fight0007" x="452" y="2" rotated="true" width="466" height="836" frameX="-109" frameY="-95" frameWidth="1047" frameHeight="589"/>
+    <SubTexture name="fight0008" x="1418" y="2" rotated="true" width="462" height="825" frameX="-109" frameY="-99" frameWidth="1047" frameHeight="589"/>
+    <SubTexture name="fight0009" x="2731" y="2" rotated="true" width="421" height="825" frameX="-109" frameY="-140" frameWidth="1047" frameHeight="589"/>
+    <SubTexture name="fight0010" x="2307" y="2" rotated="true" width="422" height="825" frameX="-109" frameY="-139" frameWidth="1047" frameHeight="589"/>
+    <SubTexture name="fight0011" x="775" y="840" width="825" height="423" frameX="-109" frameY="-138" frameWidth="1047" frameHeight="589"/>
+    <SubTexture name="fight0012" x="1602" y="829" width="825" height="423" frameX="-109" frameY="-138" frameWidth="1047" frameHeight="589"/>
+    <SubTexture name="fight0013" x="1882" y="2" rotated="true" width="423" height="825" frameX="-109" frameY="-138" frameWidth="1047" frameHeight="589"/>
+    <SubTexture name="fight0014" x="2429" y="829" width="825" height="422" frameX="-109" frameY="-139" frameWidth="1047" frameHeight="589"/>
+</TextureAtlas>

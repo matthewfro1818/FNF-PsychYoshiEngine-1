@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:e41ad5de9a876dfdd88021eda866baba:d949d148eeed8c03ec786a05f6dbacdb:ef7663426bf705b25566a93aef3a1571$ -->
+<TextureAtlas imagePath="spritesheet.png" width="2048" height="4096">
+    <SubTexture name="DDown0001" x="2" y="1346" width="490" height="307" frameX="-51" frameY="-87" frameWidth="572" frameHeight="404"/>
+    <SubTexture name="DDown0002" x="494" y="1614" width="480" height="338" frameX="-33" frameY="-56" frameWidth="572" frameHeight="404"/>
+    <SubTexture name="DDown0003" x="976" y="1695" width="477" height="346" frameX="-27" frameY="-47" frameWidth="572" frameHeight="404"/>
+    <SubTexture name="DIdle0001" x="1315" y="922" width="520" height="462" frameX="-61" frameY="-114" frameWidth="640" frameHeight="639"/>
+    <SubTexture name="DIdle0002" x="619" y="1126" width="516" height="486" frameX="-65" frameY="-98" frameWidth="640" frameHeight="639"/>
+    <SubTexture name="DIdle0003" x="1540" y="367" width="502" height="553" frameX="-82" frameY="-52" frameWidth="640" frameHeight="639"/>
+    <SubTexture name="DIdle0004" x="2" y="860" rotated="true" width="615" height="484" frameX="-106" frameY="-10" frameWidth="640" frameHeight="639"/>
+    <SubTexture name="DIdle0005" x="679" y="648" rotated="true" width="634" height="476" frameX="-116" frameY="0" frameWidth="640" frameHeight="639"/>
+    <SubTexture name="DLeft0001" x="950" y="2043" rotated="true" width="449" height="355" frameX="-37" frameY="-14" frameWidth="443" frameHeight="478"/>
+    <SubTexture name="DLeft0002" x="1455" y="1753" rotated="true" width="450" height="377" frameX="-51" frameY="-14" frameWidth="443" frameHeight="478"/>
+    <SubTexture name="DLeft0003" x="2" y="2057" rotated="true" width="455" height="383" frameX="-56" frameY="-14" frameWidth="443" frameHeight="478"/>
+    <SubTexture name="DMDown0001" x="1137" y="1386" width="489" height="307" frameX="-51" frameY="-66" frameWidth="571" frameHeight="451"/>
+    <SubTexture name="DMDown0002" x="890" y="2762" width="395" height="368" frameX="-36" frameY="-42" frameWidth="571" frameHeight="451"/>
+    <SubTexture name="DMDown0003" x="2" y="2762" rotated="true" width="428" height="338" frameX="-60" frameY="-9" frameWidth="571" frameHeight="451"/>
+    <SubTexture name="DMDown0004" x="2" y="2442" rotated="true" width="445" height="318" frameX="-68" frameY="0" frameWidth="571" frameHeight="451"/>
+    <SubTexture name="DMLeft0001" x="459" y="2320" rotated="true" width="449" height="355" frameX="-123" frameY="-8" frameWidth="600" frameHeight="469"/>
+    <SubTexture name="DMLeft0002" x="2" y="1655" width="479" height="400" frameX="-118" frameY="-67" frameWidth="600" frameHeight="469"/>
+    <SubTexture name="DMLeft0003" x="449" y="2677" width="439" height="379" frameX="-142" frameY="-90" frameWidth="600" frameHeight="469"/>
+    <SubTexture name="DMLeft0004" x="1352" y="2495" width="427" height="363" frameX="-151" frameY="-103" frameWidth="600" frameHeight="469"/>
+    <SubTexture name="DMRight0001" x="1401" y="2132" width="440" height="361" frameX="-138" frameY="-40" frameWidth="645" frameHeight="401"/>
+    <SubTexture name="DMRight0002" x="483" y="1954" width="465" height="364" frameX="-108" frameY="-23" frameWidth="645" frameHeight="401"/>
+    <SubTexture name="DMRight0003" x="432" y="3058" width="378" height="365" frameX="-27" frameY="-2" frameWidth="645" frameHeight="401"/>
+    <SubTexture name="DMRight0004" x="2" y="3102" width="365" height="355" frameX="0" frameY="0" frameWidth="645" frameHeight="401"/>
+    <SubTexture name="DMUp0001" x="856" y="2" rotated="true" width="772" height="161" frameX="-164" frameY="-124" frameWidth="396" frameHeight="926"/>
+    <SubTexture name="DMUp0002" x="2" y="2" rotated="true" width="852" height="151" frameX="-156" frameY="-71" frameWidth="396" frameHeight="926"/>
+    <SubTexture name="DMUp0003" x="776" y="165" rotated="true" width="762" height="262" frameX="-39" frameY="-153" frameWidth="396" frameHeight="926"/>
+    <SubTexture name="DMUp0004" x="2" y="318" rotated="true" width="732" height="300" frameX="0" frameY="-180" frameWidth="396" frameHeight="926"/>
+    <SubTexture name="DRight0001" x="910" y="2400" width="440" height="360" frameX="-35" frameY="-52" frameWidth="542" frameHeight="413"/>
+    <SubTexture name="DRight0002" x="1630" y="2" width="413" height="363" frameX="-8" frameY="-15" frameWidth="542" frameHeight="413"/>
+    <SubTexture name="DRight0003" x="1628" y="1386" width="402" height="365" frameX="0" frameY="-2" frameWidth="542" frameHeight="413"/>
+    <SubTexture name="DUp0001" x="2" y="155" rotated="true" width="772" height="161" frameX="-51" frameY="-124" frameWidth="334" frameHeight="926"/>
+    <SubTexture name="DUp0002" x="736" y="429" rotated="true" width="700" height="217" frameX="-53" frameY="-194" frameWidth="334" frameHeight="926"/>
+    <SubTexture name="DUp0003" x="2" y="620" rotated="true" width="675" height="238" frameX="-52" frameY="-218" frameWidth="334" frameHeight="926"/>
+</TextureAtlas>

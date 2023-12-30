@@ -1,0 +1,89 @@
+{
+	"arrowColors": [
+		"#00AF09",
+		"#00AF0B",
+		"#00AF0B",
+		"#00AF0B"
+	],
+	"camOffset": {
+		"x": -10,
+		"y": 70
+	},
+	"globalOffset": {
+		"x": -20,
+		"y": 350
+	},
+	"healthbarColor": "#339933",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": null,
+			"x": -48,
+			"y": -63,
+			"anim": "Bambi_Idle",
+			"loop": false,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -58,
+			"y": -68,
+			"anim": "Bambi_Right",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -79,
+			"y": -98,
+			"anim": "Bambi_Down",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -55,
+			"y": -45,
+			"anim": "Bambi_Alt",
+			"loop": false,
+			"name": "ziiuvanPaun?",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 22,
+			"y": -59,
+			"anim": "Bambi_Left",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -27,
+			"y": 15,
+			"anim": "Bambi_Up",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}

@@ -1,0 +1,363 @@
+{
+	"songs": [
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "Yield",
+			"char": "bamber",
+			"bpm": 150,
+			"color": "#00CC00",
+			"name": "yield"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "Cornaholic",
+			"char": "bamber",
+			"color": "#00CC00",
+			"bpm": 180,
+			"name": "cornaholic"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "Harvest",
+			"char": "bamber",
+			"bpm": 180,
+			"color": "#00CC00",
+			"name": "harvest"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "Synthwheel",
+			"char": "davey",
+			"name": "synthwheel",
+			"color": "#0066FF",
+			"bpm": 150
+		},
+		{
+			"displayName": "Yard",
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"char": "davey",
+			"color": "#0066FF",
+			"name": "yard",
+			"bpm": 150
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "Coop",
+			"char": "coop-dad",
+			"bpm": 150,
+			"name": "coop",
+			"color": "#0066FF"
+		},
+		{
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"displayName": "Ron Be Like",
+			"char": "newronnie",
+			"bpm": 178,
+			"name": "Ron Be Like",
+			"color": "#FED73E"
+		},
+		{
+			"displayName": "Bob be like",
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"char": "newboris",
+			"color": "#FFFFFF",
+			"name": "Bob be like",
+			"bpm": 160
+		},
+		{
+			"displayName": "Fortnite Duos",
+			"difficulties": [
+				"Easy",
+				"Normal",
+				"Hard"
+			],
+			"char": "ronnie-and-boris",
+			"color": "#FEE16C",
+			"name": "Fortnite Duos",
+			"bpm": 180
+		},
+		{
+			"displayName": "Blusterous Day",
+			"difficulties": [
+				"Normal"
+			],
+			"char": "ronnie-and-boris",
+			"color": "#F2B65A",
+			"name": "Blusterous Day",
+			"bpm": 150
+		},
+		{
+			"difficulties": [
+				"ABSOLUTELY FUCKING FUCKED"
+			],
+			"displayName": "Swindled",
+			"char": "bamber-bout-2-howl-da-nword",
+			"bpm": 210,
+			"name": "Swindled",
+			"color": "#8E0108"
+		},
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Trade",
+			"char": "trade-davey",
+			"bpm": 150,
+			"name": "Trade",
+			"color": "#EFE91F"
+		},
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Multiversus",
+			"char": "bambi",
+			"bpm": 170,
+			"name": "Multiversus",
+			"color": "#16AD01"
+		},
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Generations",
+			"char": "gen-bamber",
+			"bpm": 140,
+			"name": "Generations",
+			"color": "#FCFCFC"
+		},
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Memeing",
+			"char": "cheating-bambi",
+			"bpm": 250,
+			"name": "Memeing",
+			"color": "#038703"
+		},
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Judgement Farm",
+			"char": "bamber-sans",
+			"bpm": 120,
+			"name": "Judgement Farm",
+			"color": "#10F2FE"
+		},
+		{
+			"bpm": 140,
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Judgement Farm 2",
+			"char": "bamber-sans-undertale",
+			"name": "Judgement Farm 2",
+			"color": "#59DEF7"
+		},
+		{
+			"displayName": "Yield - OST",
+			"difficulties": [
+				"Normal"
+			],
+			"char": "bomber",
+			"color": "#76E137",
+			"name": "Yeld",
+			"bpm": 140
+		},
+		{
+			"displayName": "Squeaky Clean",
+			"difficulties": [
+				"Fortnite"
+			],
+			"char": "davey",
+			"color": "#FE3455",
+			"name": "Squeaky Clean",
+			"bpm": 128
+		},
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Call Bamber",
+			"char": "elisocray",
+			"color": "#996633",
+			"bpm": 150,
+			"name": "call-bamber"
+		},
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Deathbattle",
+			"char": "manny",
+			"bpm": 250,
+			"name": "Deathbattle",
+			"color": "#DF1207"
+		},
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "H2O",
+			"char": "water",
+			"bpm": 150,
+			"name": "H2O",
+			"color": "#A5CEE3"
+		},
+		{
+			"displayName": "Corn N Roll",
+			"difficulties": [
+				"BFDI"
+			],
+			"char": "bfdi-bamber",
+			"color": "#2FFE80",
+			"name": "Corn N Roll",
+			"bpm": 160
+		},
+		{
+			"displayName": "Screencast",
+			"difficulties": [
+				"Normal"
+			],
+			"char": "nikku",
+			"color": "#FE3455",
+			"name": "Screencast",
+			"bpm": 128
+		},
+		
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Yield V1",
+			"char": "bamber-old",
+			"bpm": 180,
+			"name": "Yield V1",
+			"color": "#16AD01"
+		},
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Cornaholic V1",
+			"char": "bamber-old",
+			"bpm": 130,
+			"name": "Cornaholic V1",
+			"color": "#16AD01"
+		},
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Harvest V1",
+			"char": "bamber-old",
+			"bpm": 180,
+			"name": "Harvest V1",
+			"color": "#16AD01"
+		},
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Yield Seezee Remix",
+			"char": "bamber-old",
+			"bpm": 180,
+			"name": "Yield Seezee Remix",
+			"color": "#16AD01"
+		},
+		{
+			"difficulties": [
+				"Erect"
+			],
+			"displayName": "Cornaholic Erect Remix V1",
+			"char": "bamber-old",
+			"bpm": 150,
+			"name": "Cornaholic Erect Remix V1",
+			"color": "#16AD01"
+		},
+		{
+			"difficulties": [
+				"Normal"
+			],
+			"displayName": "Harvest Chill Remix",
+			"char": "bamber-old",
+			"bpm": 150,
+			"name": "Harvest Chill Remix",
+			"color": "#16AD01"
+		},
+		{
+			"displayName": "Astray",
+			"difficulties": [
+				"Normal"
+			],
+			"char": "joke_model_obj",
+			"color": "#111811",
+			"name": "Astray",
+			"bpm": 160
+		},
+		{
+			"displayName": "Facsimile",
+			"difficulties": [
+				"Normal"
+			],
+			"char": "joke_davey_obj",
+			"color": "#0F161F",
+			"name": "Facsimile",
+			"bpm": 220
+		},
+		{
+			"displayName": null,
+			"difficulties": [
+				"PLACEHOLDER"
+			],
+			"char": "PLACEHOLDER",
+			"color": "#242323",
+			"name": "Placeholder",
+			"bpm": 200
+		},
+		{
+			"displayName": null,
+			"difficulties": [
+				""
+			],
+			"char": "thetest",
+			"color": "#000000",
+			"name": "Test Footage",
+			"bpm": 15
+		}
+	]
+}

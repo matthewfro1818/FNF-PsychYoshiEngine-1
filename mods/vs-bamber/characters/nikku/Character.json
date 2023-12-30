@@ -1,0 +1,116 @@
+{
+	"arrowColors": [
+		"#FE2151",
+		"#161339",
+		"#161339",
+		"#FE2151"
+	],
+	"camOffset": {
+		"x": -250,
+		"y": 110
+	},
+	"globalOffset": {
+		"x": 60,
+		"y": -150
+	},
+	"healthbarColor": "#CC0053",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": null,
+			"x": -32,
+			"y": 5,
+			"anim": "NikkuMissLEFT",
+			"loop": false,
+			"name": "singRIGHTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 22,
+			"y": -161,
+			"anim": "NikkuDOWN",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 107,
+			"y": -51,
+			"anim": "NikkuMissRIGHT",
+			"loop": false,
+			"name": "singLEFTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -1,
+			"y": 30,
+			"anim": "NikkuUP",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "NikkuIDLE",
+			"loop": false,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -43,
+			"y": 9,
+			"anim": "NikkuLEFT",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 19,
+			"y": -143,
+			"anim": "NikkuMissDOWN",
+			"loop": false,
+			"name": "singDOWNmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 1,
+			"y": 25,
+			"anim": "NikkuMissUP",
+			"loop": false,
+			"name": "singUPmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 145,
+			"y": -41,
+			"anim": "NikkuRIGHT",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 0.8
+}

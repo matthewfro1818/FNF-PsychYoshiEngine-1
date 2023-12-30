@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Funkin Packer v0.0.4 https://neeeoo.github.io/funkin-packer/
+-->
+<TextureAtlas imagePath="Horse Plinko.png" width="96" height="4128">
+	<SubTexture name="Horse Plinko0000" x="3" y="3" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0001" x="3" y="99" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0002" x="3" y="195" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0003" x="3" y="291" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0004" x="3" y="387" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0005" x="3" y="483" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0006" x="3" y="579" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0007" x="3" y="675" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0008" x="3" y="771" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0009" x="3" y="867" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0010" x="3" y="963" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0011" x="3" y="1059" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0012" x="3" y="1155" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0013" x="3" y="1251" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0014" x="3" y="1347" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0016" x="3" y="1443" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0017" x="3" y="1539" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0018" x="3" y="1635" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0019" x="3" y="1731" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0020" x="3" y="1827" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0021" x="3" y="1923" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0022" x="3" y="2019" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0023" x="3" y="2115" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0024" x="3" y="2211" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0025" x="3" y="2307" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0026" x="3" y="2403" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0027" x="3" y="2499" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0028" x="3" y="2595" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0029" x="3" y="2691" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0030" x="3" y="2787" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0031" x="3" y="2883" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0032" x="3" y="2979" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0033" x="3" y="3075" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0034" x="3" y="3171" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0035" x="3" y="3267" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0036" x="3" y="3363" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0037" x="3" y="3459" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0038" x="3" y="3555" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0039" x="3" y="3651" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0040" x="3" y="3747" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0041" x="3" y="3843" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0042" x="3" y="3939" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0043" x="3" y="4035" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+	<SubTexture name="Horse Plinko0015" x="3" y="1347" width="90" height="90" frameX="-0" frameY="-0" frameWidth="90" frameHeight="90"/>
+</TextureAtlas>

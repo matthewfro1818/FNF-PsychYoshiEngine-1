@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:63ad992e5cc7e48128445cff557e19a5:471f37ebda8f87a1ae36dcd425cf4e83:3fee8e76f852a6cbe840370f61dd8b93$ -->
+<TextureAtlas imagePath="timeNum.png" width="256" height="512">
+    <SubTexture name="TimeNum0001" x="2" y="74" rotated="true" width="102" height="68" frameX="-5" frameY="-2" frameWidth="82" frameHeight="109"/>
+    <SubTexture name="TimeNum0002" x="103" y="287" rotated="true" width="99" height="55" frameX="-8" frameY="-3" frameWidth="82" frameHeight="109"/>
+    <SubTexture name="TimeNum0003" x="2" y="214" rotated="true" width="100" height="66" frameX="-6" frameY="-2" frameWidth="82" frameHeight="109"/>
+    <SubTexture name="TimeNum0004" x="106" y="2" rotated="true" width="102" height="69" frameX="-5" frameY="-2" frameWidth="82" frameHeight="109"/>
+    <SubTexture name="TimeNum0005" x="104" y="215" rotated="true" width="99" height="70" frameX="-6" frameY="-3" frameWidth="82" frameHeight="109"/>
+    <SubTexture name="TimeNum0006" x="106" y="144" rotated="true" width="101" height="69" frameX="-5" frameY="-3" frameWidth="82" frameHeight="109"/>
+    <SubTexture name="TimeNum0007" x="106" y="73" rotated="true" width="102" height="69" frameX="-4" frameY="-2" frameWidth="82" frameHeight="109"/>
+    <SubTexture name="TimeNum0008" x="2" y="282" rotated="true" width="99" height="59" frameX="-7" frameY="-3" frameWidth="82" frameHeight="109"/>
+    <SubTexture name="TimeNum0009" x="2" y="144" rotated="true" width="102" height="68" frameX="-5" frameY="-2" frameWidth="82" frameHeight="109"/>
+    <SubTexture name="TimeNum0010" x="2" y="2" rotated="true" width="102" height="70" frameX="-4" frameY="-2" frameWidth="82" frameHeight="109"/>
+</TextureAtlas>

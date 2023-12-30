@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "That was a very solid start!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "neutral",
+			"text": "Yeah but I still managed to beat you!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Ah! So it's like that. I see..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "teasing",
+			"text": "Well... I did say \"musical\" skills, not just singing skills..."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "I'm down to anything you bring out to the battle!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "davey",
+			"boxState": "normal",
+			"expression": "teasing",
+			"text": "Alright then! Cue the next track!"
+		}
+	]
+}

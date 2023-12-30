@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:b23a90be3d24d49e9b282febcd5adec0:9d77b7abb9f3dbf02dfb04221abe4532:b81e64d72a91b31206ddd61c593b150a$ -->
+<TextureAtlas imagePath="knockout.png" width="8192" height="2048">
+    <SubTexture name="knockout0001" x="7510" y="2" width="662" height="495" frameX="-183" frameY="-24" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0002" x="2" y="2" width="770" height="421" frameX="-180" frameY="-29" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0003" x="7621" y="499" rotated="true" width="484" height="770" frameX="-180" frameY="-45" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0004" x="7609" y="1271" rotated="true" width="508" height="770" frameX="-180" frameY="-55" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0005" x="5928" y="1384" width="770" height="499" frameX="-180" frameY="-64" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0006" x="5977" y="891" width="773" height="491" frameX="-180" frameY="-72" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0007" x="2527" y="1354" width="817" height="485" frameX="-180" frameY="-78" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0008" x="844" y="1339" width="839" height="480" frameX="-180" frameY="-83" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0009" x="2" y="1332" width="840" height="479" frameX="-180" frameY="-84" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0010" x="4212" y="440" width="864" height="447" frameX="-156" frameY="-116" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0011" x="5078" y="440" width="856" height="449" frameX="-164" frameY="-114" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0012" x="844" y="878" width="874" height="459" frameX="-146" frameY="-104" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0013" x="4247" y="891" width="886" height="470" frameX="-134" frameY="-93" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0014" x="3346" y="1359" width="896" height="480" frameX="-124" frameY="-83" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0015" x="6700" y="1428" width="907" height="501" frameX="-113" frameY="-68" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0016" x="774" y="2" width="840" height="431" frameX="-180" frameY="-132" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0017" x="1616" y="2" width="840" height="433" frameX="-180" frameY="-130" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0018" x="2563" y="885" width="840" height="467" frameX="-180" frameY="-96" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0019" x="5135" y="891" width="840" height="475" frameX="-180" frameY="-88" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0020" x="1720" y="880" width="841" height="466" frameX="-179" frameY="-97" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0021" x="2" y="873" width="840" height="457" frameX="-180" frameY="-106" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0022" x="5936" y="440" width="840" height="449" frameX="-180" frameY="-114" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0023" x="3370" y="440" width="840" height="443" frameX="-180" frameY="-120" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0024" x="2528" y="440" width="840" height="438" frameX="-180" frameY="-125" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0025" x="2458" y="2" width="840" height="436" frameX="-180" frameY="-127" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0026" x="3300" y="2" width="840" height="436" frameX="-180" frameY="-127" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0027" x="6778" y="499" width="841" height="449" frameX="-179" frameY="-114" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0028" x="3405" y="889" width="840" height="468" frameX="-180" frameY="-95" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0029" x="6752" y="950" width="840" height="476" frameX="-180" frameY="-87" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0030" x="1685" y="1348" width="840" height="482" frameX="-180" frameY="-81" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0031" x="4244" y="1363" width="840" height="485" frameX="-180" frameY="-78" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0032" x="5086" y="1368" width="840" height="493" frameX="-180" frameY="-70" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0033" x="4142" y="2" width="840" height="436" frameX="-180" frameY="-127" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0034" x="4984" y="2" width="840" height="436" frameX="-180" frameY="-127" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0035" x="5826" y="2" width="840" height="436" frameX="-180" frameY="-127" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0036" x="6668" y="2" width="840" height="436" frameX="-180" frameY="-127" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0037" x="2" y="435" width="840" height="436" frameX="-180" frameY="-127" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0038" x="844" y="437" width="840" height="436" frameX="-180" frameY="-127" frameWidth="1067" frameHeight="600"/>
+    <SubTexture name="knockout0039" x="1686" y="440" width="840" height="436" frameX="-180" frameY="-127" frameWidth="1067" frameHeight="600"/>
+</TextureAtlas>

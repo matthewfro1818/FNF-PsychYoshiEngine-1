@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:d057418d258ca57d95fffc4b8a9bcca6:e29992ce19bbadd188023ffdf1ebf6c8:ef7663426bf705b25566a93aef3a1571$ -->
+<TextureAtlas imagePath="spritesheet.png" width="2048" height="2048">
+    <SubTexture name="BDown0001" x="993" y="1838" width="223" height="208" frameX="-43" frameY="-70" frameWidth="313" frameHeight="285"/>
+    <SubTexture name="BDown0002" x="1773" y="581" rotated="true" width="263" height="225" frameX="-51" frameY="-19" frameWidth="313" frameHeight="285"/>
+    <SubTexture name="BDown0003" x="1561" y="1525" rotated="true" width="281" height="227" frameX="-53" frameY="-3" frameWidth="313" frameHeight="285"/>
+    <SubTexture name="BIdle0001" x="906" y="833" width="408" height="317" frameX="-74" frameY="-65" frameWidth="503" frameHeight="412"/>
+    <SubTexture name="BIdle0002" x="2" y="953" width="371" height="367" frameX="-125" frameY="-9" frameWidth="503" frameHeight="412"/>
+    <SubTexture name="BIdle0003" x="812" y="1152" rotated="true" width="369" height="367" frameX="-129" frameY="-4" frameWidth="503" frameHeight="412"/>
+    <SubTexture name="BIdle0004" x="375" y="1173" rotated="true" width="369" height="367" frameX="-129" frameY="-5" frameWidth="503" frameHeight="412"/>
+    <SubTexture name="BIdle0005" x="2" y="1322" width="368" height="368" frameX="-128" frameY="-6" frameWidth="503" frameHeight="412"/>
+    <SubTexture name="BLeft0001" x="492" y="2" width="472" height="357" frameX="-59" frameY="-20" frameWidth="562" frameHeight="377"/>
+    <SubTexture name="BLeft0002" x="920" y="475" width="440" height="356" frameX="-109" frameY="-4" frameWidth="562" frameHeight="377"/>
+    <SubTexture name="BLeft0003" x="475" y="541" width="429" height="350" frameX="-125" frameY="-1" frameWidth="562" frameHeight="377"/>
+    <SubTexture name="BMDown0001" x="1218" y="1838" width="223" height="207" frameX="-330" frameY="-67" frameWidth="628" frameHeight="357"/>
+    <SubTexture name="BMDown0002" x="1277" y="1525" rotated="true" width="282" height="306" frameX="-257" frameY="-29" frameWidth="628" frameHeight="357"/>
+    <SubTexture name="BMDown0003" x="1904" y="2" rotated="true" width="137" height="397" frameX="-167" frameY="-182" frameWidth="628" frameHeight="357"/>
+    <SubTexture name="BMDown0004" x="2" y="688" width="418" height="75" frameX="-140" frameY="-241" frameWidth="628" frameHeight="357"/>
+    <SubTexture name="BMLeft0001" x="2" y="330" width="471" height="356" frameX="-60" frameY="-17" frameWidth="578" frameHeight="379"/>
+    <SubTexture name="BMLeft0002" x="993" y="1525" rotated="true" width="282" height="311" frameX="-100" frameY="-65" frameWidth="578" frameHeight="379"/>
+    <SubTexture name="BMLeft0003" x="1438" y="266" width="445" height="313" frameX="-92" frameY="-16" frameWidth="578" frameHeight="379"/>
+    <SubTexture name="BMLeft0004" x="2" y="2" width="488" height="326" frameX="-90" frameY="0" frameWidth="578" frameHeight="379"/>
+    <SubTexture name="BMRight0001" x="676" y="1542" width="315" height="320" frameX="-146" frameY="-94" frameWidth="554" frameHeight="461"/>
+    <SubTexture name="BMRight0002" x="418" y="893" rotated="true" width="392" height="278" frameX="-235" frameY="-34" frameWidth="554" frameHeight="461"/>
+    <SubTexture name="BMRight0003" x="1316" y="1139" rotated="true" width="401" height="276" frameX="-200" frameY="-33" frameWidth="554" frameHeight="461"/>
+    <SubTexture name="BMRight0004" x="1362" y="581" rotated="true" width="409" height="336" frameX="-29" frameY="-40" frameWidth="554" frameHeight="461"/>
+    <SubTexture name="BMUp0001" x="966" y="294" rotated="true" width="443" height="179" frameX="-53" frameY="-2" frameWidth="261" frameHeight="493"/>
+    <SubTexture name="BMUp0002" x="2" y="765" rotated="true" width="414" height="186" frameX="-26" frameY="-52" frameWidth="261" frameHeight="493"/>
+    <SubTexture name="BMUp0003" x="1316" y="919" rotated="true" width="402" height="218" frameX="-11" frameY="-66" frameWidth="261" frameHeight="493"/>
+    <SubTexture name="BMUp0004" x="1773" y="808" width="228" height="398" frameX="-7" frameY="-71" frameWidth="261" frameHeight="493"/>
+    <SubTexture name="BRight0001" x="1719" y="1208" rotated="true" width="325" height="315" frameX="-103" frameY="-48" frameWidth="456" frameHeight="393"/>
+    <SubTexture name="BRight0002" x="342" y="1692" width="332" height="339" frameX="-75" frameY="-20" frameWidth="456" frameHeight="393"/>
+    <SubTexture name="BRight0003" x="2" y="1692" width="338" height="346" frameX="-65" frameY="-9" frameWidth="456" frameHeight="393"/>
+    <SubTexture name="BUp0001" x="475" y="361" rotated="true" width="443" height="178" frameX="-67" frameY="-2" frameWidth="294" frameHeight="495"/>
+    <SubTexture name="BUp0002" x="1438" y="2" rotated="true" width="464" height="262" frameX="-19" frameY="-12" frameWidth="294" frameHeight="495"/>
+    <SubTexture name="BUp0003" x="966" y="2" rotated="true" width="470" height="290" frameX="-4" frameY="-16" frameWidth="294" frameHeight="495"/>
+</TextureAtlas>

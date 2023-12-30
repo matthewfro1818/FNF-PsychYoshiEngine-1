@@ -1,0 +1,196 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "who are you"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "a very freindly fellow"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and why do you look like geometry dash"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "peak",
+			"text": "ayo nah"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "what"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "peak",
+			"text": "nah"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "peak",
+			"text": "nah"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nuh uh d-side dream"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "WHAT THE FUCK!?"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i am sexy as shit, do not ever talk to my ass ever again like that"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yeah whatever"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pasty ass white boy"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "HEY!!"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bro literally got pajamas on better sleep soon and be read a bedtime story and a little goodnight kiss for sweet dreams of sunshine and rainbows"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "angry",
+			"expression": "mad",
+			"text": "IT'S LITERALLY THE MIDDLE OF THE DAY-"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": " "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "so this is who people like"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "this is who they want to associate with"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "despicable"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "thinking",
+			"expression": "talk",
+			"text": "how did he find out tho"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "you thought that out loud"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "normal",
+			"expression": "bruh",
+			"text": "can you like,,,, shur up, gnnnnnn,, , ,,, ,,, ,  ,  ,  ,,,"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sing battle :3"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "okei :33"
+		}
+	]
+}

@@ -1,0 +1,111 @@
+{
+	"arrowColors": null,
+	"camOffset": {
+		"x": 0,
+		"y": 0
+	},
+	"globalOffset": {
+		"x": -20,
+		"y": 340
+	},
+	"healthbarColor": "#50A5FF",
+	"flipX": true,
+	"anims": [
+		{
+			"indices": null,
+			"x": -30,
+			"y": 101,
+			"anim": "cubefriend_rightmiss",
+			"loop": false,
+			"name": "singRIGHTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -5,
+			"y": 30,
+			"anim": "cubefriend_down0",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 14,
+			"y": 103,
+			"anim": "cubefriend_leftmiss",
+			"loop": false,
+			"name": "singLEFTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -9,
+			"y": 80,
+			"anim": "cubefriend_up0",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -25,
+			"y": 66,
+			"anim": "cubefriend_idle",
+			"loop": false,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -4,
+			"y": 82,
+			"anim": "cubefriend_downmiss",
+			"loop": false,
+			"name": "singDOWNmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -32,
+			"y": 66,
+			"anim": "cubefriend_right0",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 18,
+			"y": 64,
+			"anim": "cubefriend_left0",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -5,
+			"y": 119,
+			"anim": "cubefriend_upmiss",
+			"loop": false,
+			"name": "singUPmiss",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 0.9
+}

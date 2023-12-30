@@ -1,0 +1,111 @@
+{
+	"arrowColors": null,
+	"camOffset": {
+		"x": -50,
+		"y": 30
+	},
+	"globalOffset": {
+		"x": 20,
+		"y": 329
+	},
+	"healthbarColor": "#00CCFF",
+	"flipX": true,
+	"anims": [
+		{
+			"indices": null,
+			"x": 53,
+			"y": -60,
+			"anim": "Sing_Down",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 47,
+			"y": 87,
+			"anim": "Miss_Right",
+			"loop": false,
+			"name": "singRIGHTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 583,
+			"y": 56,
+			"anim": "Miss_Left",
+			"loop": false,
+			"name": "singLEFTmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 12,
+			"y": 81,
+			"anim": "Sing_Up",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Idle",
+			"loop": false,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 151,
+			"y": 33,
+			"anim": "Miss_Down",
+			"loop": false,
+			"name": "singDOWNmiss",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -1,
+			"y": 12,
+			"anim": "Sing_Right",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 32,
+			"y": 1,
+			"anim": "Sing_Left",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 72,
+			"y": 123,
+			"anim": "Miss_Up",
+			"loop": false,
+			"name": "singUPmiss",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}

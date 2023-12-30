@@ -1,0 +1,116 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "joever",
+			"text": "OH MY GOD I'M ALIVE AGAIN"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "joever",
+			"text": "I'VE JUST BEEN BROUGHT BACK"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "joever",
+			"text": "WHY DID I SUDDENLY DISAPPEAR IN THE SECOND SONG"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hi ronnie"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hello boris"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what is even going on anymore"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "circlefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "have you ever questioned the fact that. Oh wait i cant make that joke anymore"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what r u even talking about"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "joever",
+			"text": "i have witnessed things beyond mortal comprehension."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "surprised",
+			"text": "i will never be the same again."
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "boris",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok can we play fortnite "
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "cubefreind",
+			"boxState": "normal",
+			"expression": "peak",
+			"text": "I FUCKING LOVE FORTNITE"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "ronnie",
+			"boxState": "normal",
+			"expression": "smug",
+			"text": "ya fortnite is cool"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "circlefreind",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok let me join too i have the\\nrenegade raider skin"
+		}
+	]
+}

@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker https://www.codeandweb.com/texturepacker -->
+<!-- $TexturePacker:SmartUpdate:d4a8b8f676e8eff2615201401272ee7c:4c0afafcf8a0ca469def143850e77737:ef7663426bf705b25566a93aef3a1571$ -->
+<TextureAtlas imagePath="spritesheet.png" width="7038" height="1008">
+    <SubTexture name="Bamber DeathConfirm0001" x="1010" y="2" rotated="true" width="242" height="594" frameX="0" frameY="0" frameWidth="594" frameHeight="247"/>
+    <SubTexture name="Bamber DeathConfirm0002" x="1254" y="2" rotated="true" width="242" height="594" frameX="0" frameY="0" frameWidth="594" frameHeight="247"/>
+    <SubTexture name="Bamber DeathConfirm0003" x="1498" y="2" rotated="true" width="236" height="594" frameX="0" frameY="0" frameWidth="594" frameHeight="247"/>
+    <SubTexture name="Bamber DeathConfirm0004" x="1498" y="2" rotated="true" width="236" height="594" frameX="0" frameY="0" frameWidth="594" frameHeight="247"/>
+    <SubTexture name="Bamber DeathConfirm0005" x="1736" y="2" rotated="true" width="222" height="594" frameX="0" frameY="0" frameWidth="594" frameHeight="247"/>
+    <SubTexture name="Bamber DeathConfirm0006" x="1736" y="2" rotated="true" width="222" height="594" frameX="0" frameY="0" frameWidth="594" frameHeight="247"/>
+    <SubTexture name="Bamber DeathConfirm0007" x="1960" y="2" rotated="true" width="222" height="594" frameX="0" frameY="0" frameWidth="594" frameHeight="247"/>
+    <SubTexture name="Bamber DeathLoop0001" x="2" y="2" rotated="true" width="252" height="594" frameX="0" frameY="0" frameWidth="594" frameHeight="257"/>
+    <SubTexture name="Bamber DeathLoop0002" x="2" y="2" rotated="true" width="252" height="594" frameX="0" frameY="0" frameWidth="594" frameHeight="257"/>
+    <SubTexture name="Bamber DeathLoop0003" x="256" y="2" rotated="true" width="252" height="594" frameX="0" frameY="0" frameWidth="594" frameHeight="257"/>
+    <SubTexture name="Bamber DeathLoop0004" x="256" y="2" rotated="true" width="252" height="594" frameX="0" frameY="0" frameWidth="594" frameHeight="257"/>
+    <SubTexture name="Bamber FirstDeath0001" x="6490" y="599" width="234" height="291" frameX="-265" frameY="-95" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0002" x="6490" y="599" width="234" height="291" frameX="-265" frameY="-95" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0003" x="6490" y="599" width="234" height="291" frameX="-265" frameY="-95" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0004" x="6490" y="599" width="234" height="291" frameX="-265" frameY="-95" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0005" x="6490" y="599" width="234" height="291" frameX="-265" frameY="-95" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0006" x="6490" y="599" width="234" height="291" frameX="-265" frameY="-95" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0007" x="6747" y="293" rotated="true" width="289" height="232" frameX="-266" frameY="-97" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0008" x="6747" y="293" rotated="true" width="289" height="232" frameX="-266" frameY="-97" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0009" x="6747" y="293" rotated="true" width="289" height="232" frameX="-266" frameY="-97" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0010" x="6747" y="293" rotated="true" width="289" height="232" frameX="-266" frameY="-97" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0011" x="6747" y="527" rotated="true" width="288" height="235" frameX="-261" frameY="-98" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0012" x="6747" y="527" rotated="true" width="288" height="235" frameX="-261" frameY="-98" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0013" x="6747" y="527" rotated="true" width="288" height="235" frameX="-261" frameY="-98" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0014" x="6366" y="2" width="243" height="293" frameX="-255" frameY="-93" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0015" x="6366" y="2" width="243" height="293" frameX="-255" frameY="-93" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0016" x="6611" y="2" width="240" height="289" frameX="-254" frameY="-97" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0017" x="6726" y="764" rotated="true" width="288" height="222" frameX="-271" frameY="-98" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0018" x="3629" y="780" rotated="true" width="290" height="225" frameX="-266" frameY="-96" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0019" x="6528" y="297" width="217" height="291" frameX="-267" frameY="-95" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0020" x="3333" y="780" rotated="true" width="294" height="226" frameX="-257" frameY="-92" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0021" x="6108" y="2" width="256" height="297" frameX="-229" frameY="-90" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0022" x="6270" y="301" width="256" height="296" frameX="-229" frameY="-91" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0023" x="6217" y="630" width="271" height="296" frameX="-222" frameY="-90" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0024" x="5688" y="317" width="271" height="313" frameX="-222" frameY="-74" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0025" x="5409" y="319" width="277" height="314" frameX="-219" frameY="-73" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0026" x="4651" y="2" width="277" height="322" frameX="-219" frameY="-64" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0027" x="3804" y="2" width="273" height="329" frameX="-221" frameY="-58" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0028" x="4226" y="329" width="279" height="324" frameX="-215" frameY="-63" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0029" x="4196" y="660" width="269" height="325" frameX="-223" frameY="-61" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0030" x="5946" y="632" width="269" height="313" frameX="-223" frameY="-74" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0031" x="4352" y="2" width="297" height="323" frameX="-202" frameY="-63" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0032" x="5217" y="2" rotated="true" width="312" height="315" frameX="-178" frameY="-74" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0033" x="4766" y="652" width="289" height="321" frameX="-207" frameY="-66" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0034" x="3947" y="333" width="277" height="325" frameX="-219" frameY="-61" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0035" x="5671" y="635" width="273" height="313" frameX="-221" frameY="-74" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0036" x="4467" y="655" width="297" height="323" frameX="-202" frameY="-63" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0037" x="5357" y="645" rotated="true" width="312" height="314" frameX="-178" frameY="-74" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0038" x="4930" y="2" width="285" height="321" frameX="-207" frameY="-66" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0039" x="4079" y="2" width="271" height="325" frameX="-222" frameY="-61" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0040" x="5835" y="2" width="271" height="313" frameX="-222" frameY="-74" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0041" x="4507" y="327" width="297" height="323" frameX="-202" frameY="-63" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0042" x="5095" y="325" rotated="true" width="312" height="318" frameX="-178" frameY="-74" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0043" x="4806" y="326" width="287" height="321" frameX="-207" frameY="-66" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0044" x="3921" y="664" width="273" height="327" frameX="-221" frameY="-59" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0045" x="5531" y="2" width="302" height="313" frameX="-193" frameY="-75" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0046" x="5057" y="649" rotated="true" width="298" height="319" frameX="-169" frameY="-90" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0047" x="3502" y="2" width="300" height="329" frameX="-193" frameY="-60" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0048" x="1935" y="598" width="316" height="358" frameX="-153" frameY="-33" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0049" x="1292" y="598" width="320" height="358" frameX="-191" frameY="-32" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0050" x="5961" y="317" width="307" height="311" frameX="-191" frameY="-77" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0051" x="1019" y="598" width="271" height="382" frameX="-193" frameY="-9" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0052" x="3645" y="333" width="300" height="329" frameX="-193" frameY="-60" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0053" x="3333" y="420" width="310" height="358" frameX="-153" frameY="-33" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0054" x="1614" y="598" width="319" height="358" frameX="-192" frameY="-32" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0055" x="349" y="598" width="296" height="391" frameX="-189" frameY="0" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0056" x="2574" y="521" width="420" height="439" frameX="-109" frameY="-5" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0057" x="3146" y="2" width="354" height="416" frameX="-149" frameY="-5" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0058" x="2" y="598" width="345" height="397" frameX="-172" frameY="-5" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0059" x="2" y="598" width="345" height="397" frameX="-172" frameY="-5" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0060" x="647" y="598" width="370" height="383" frameX="-147" frameY="-19" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0061" x="647" y="598" width="370" height="383" frameX="-147" frameY="-19" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0062" x="2996" y="514" rotated="true" width="335" height="425" frameX="-92" frameY="-67" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0063" x="2996" y="514" rotated="true" width="335" height="425" frameX="-92" frameY="-67" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0064" x="2253" y="522" rotated="true" width="319" height="474" frameX="-43" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0065" x="2253" y="522" rotated="true" width="319" height="474" frameX="-43" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0066" x="2825" y="2" rotated="true" width="319" height="510" frameX="-7" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0067" x="2825" y="2" rotated="true" width="319" height="510" frameX="-7" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0068" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0069" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0070" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0071" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0072" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0073" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0074" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0075" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0076" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0077" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0078" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0079" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0080" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0081" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0082" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0083" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0084" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0085" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0086" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0087" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0088" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0089" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0090" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0091" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0092" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0093" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0094" x="2504" y="2" rotated="true" width="319" height="517" frameX="0" frameY="-83" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0095" x="2184" y="2" rotated="true" width="318" height="518" frameX="0" frameY="-84" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0096" x="2184" y="2" rotated="true" width="318" height="518" frameX="0" frameY="-84" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0097" x="764" y="2" rotated="true" width="244" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0098" x="764" y="2" rotated="true" width="244" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0099" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0100" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0101" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0102" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0103" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0104" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0105" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0106" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0107" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0108" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0109" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0110" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0111" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0112" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0113" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0114" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0115" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+    <SubTexture name="Bamber FirstDeath0116" x="510" y="2" rotated="true" width="252" height="594" frameX="0" frameY="-226" frameWidth="594" frameHeight="483"/>
+</TextureAtlas>

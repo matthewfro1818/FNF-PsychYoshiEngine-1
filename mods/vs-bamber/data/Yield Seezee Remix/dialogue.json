@@ -1,0 +1,37 @@
+{
+	"forceInFreeplay": true,
+	"dialogue": [
+		{
+			"expression": "flabbergasted",
+			"text": "oh wtf what the fuck are you doing back in my farm get out",
+			"boxState": "angry",
+			"portrait": "OLDbamber",
+			"speed": 0.02,
+			"sound": ""
+		},
+		{
+			"expression": "excited",
+			"text": "i wanna rap battle again :)",
+			"boxState": "normal",
+			"portrait": "OLDbf",
+			"speed": 0.05,
+			"sound": ""
+		},
+		{
+			"expression": "talk",
+			"text": "oh my god please fuck off after this song",
+			"boxState": "normal",
+			"portrait": "OLDbamber",
+			"speed": 0.02,
+			"sound": ""
+		},
+		{
+			"sound": "",
+			"speed": 0.02,
+			"portrait": "OLDbf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}

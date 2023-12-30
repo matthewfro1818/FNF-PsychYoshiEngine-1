@@ -1,0 +1,373 @@
+{
+    "credits" : [
+        {
+            "name" : "Mod Socials",
+            "role" : "Links to Vs Bamber And Davey Socials!",
+            "icon" : "credits/bamber",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/ReimaginationT"
+                },
+                {
+                    "name" : "Discord Server",
+                    "url" : "https://discord.gg/57PZr73bz9"
+                },
+                {
+                    "name" : "Funkipedia Wiki",
+                    "url" : "https://fridaynightfunking.fandom.com/wiki/Vs._Bamber_and_Davey#Upcoming"
+                }
+
+            ]
+        },
+        {
+            "name" : "Verwex aka Vershift",
+            "role" : "[DEV] Owner / Co-Director / Main Artist / Main Animator / Coding Assist\n'my balls inch'",
+            "icon" : "credits/devs/verwex",
+            "urls" : [
+                {
+                    "name" : "Verwex#7283",
+                    "url" : "https://www.youtube.com/channel/UCHTobpqmWR_-pvchEI_ei1Q"
+                },
+                {
+                    "name" : "Youtube",
+                    "url" : "https://www.youtube.com/channel/UCHTobpqmWR_-pvchEI_ei1Q"
+                },
+                {
+                    "name" : "Newgrounds",
+                    "url" : "https://verwex.newgrounds.com/"
+                }
+            ]
+        },
+        {
+            "name" : "Glitch.Smh",
+            "role" : "[DEV] Co-Owner / Director / Main Musician / Main Charter / Art & Animation Assist\n'Hello this is the rubyness, It's nice to meet you but it's even better to meet me'",
+            "icon" : "credits/devs/glitch.smh",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/glitch_smh"
+                },
+                {
+                    "name" : "Main Youtube",
+                    "url" : "https://www.youtube.com/@Glitch_Smh"
+                },
+                {
+                    "name" : "Music Youtube",
+                    "url" : "https://www.youtube.com/@Glitch_mp3"
+                },
+                {
+                    "name" : "Soundcloud",
+                    "url" : "https://soundcloud.com/glitch_mp3"
+                },
+                {
+                    "name" : "Newgrounds",
+                    "url" : "https://glitchdotsmh.newgrounds.com/"
+                }
+            ]
+        },
+        {
+            "name" : "Frakits",
+            "role" : "[DEV] Main Coder\n'instead of thinking which mods will get cancelled how about you think about the amount of times i did your mom'",
+            "icon" : "credits/devs/frakits",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/frakitts"
+                }
+            ]
+        },
+        {
+            "name" : "Seezee",
+            "role" : "[DEV] Artist / Animator / Overall Contributor / Music Assist\n'rogan smith 2013 - evan mcreed 2018'",
+            "icon" : "credits/devs/seezee",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/doibehype"
+                }
+            ]
+        },
+        {
+            "name" : "Kasu",
+            "role" : "[DEV] Musician\n'i forgor'",
+            "icon" : "credits/devs/kasu",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/YasuMeishu"
+                },
+                {
+                    "name" : "Youtube",
+                    "url" : "https://www.youtube.com/@kasu4639"
+                }
+            ]
+        },
+        {
+            "name" : "DataBlooster",
+            "role" : "[DEV] Former Charter\n'nuh uh'",
+            "icon" : "credits/devs/datablooster",
+            "urls" : [
+                {
+                    "name" : "Discord Server",
+                    "url" : "https://discord.gg/S9aZmjtuPa"
+                }
+            ]
+        },
+        {
+            "name" : "Stormy",
+            "role" : "[DEV] Charter / Musician\n'charted all the difficult stuff lmaooo'",
+            "icon" : "credits/devs/stormy",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/St4rStormy"
+                }
+            ]
+        },
+        {
+            "name" : "Sanify aka Tatzu",
+            "role" : "[DEV] Artist\n'The mod dev chat is like a classroom, i'm the quiet kid'",
+            "icon" : "credits/devs/sanify",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/Sanify_"
+                },
+                {
+                    "name" : "Newgrounds",
+                    "url" : "https://sanify.newgrounds.com/"
+                }
+            ]
+        },
+        {
+            "name" : "Rocky The OtterFox aka Callofmester",
+            "role" : "[DEV] Davey Synthwheel's Voice Actor\n'Life is hard and maybe sometimes unfair too...but don't just give up, live your dream and do your best,cause everyone has only one life, so make it the best!'",
+            "icon" : "credits/devs/callofmester",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/callofmester12"
+                },
+                {
+                    "name" : "Newgrounds",
+                    "url" : "https://callofmester.newgrounds.com/"
+                }
+            ]
+        },
+        {
+            "name" : "zeny",
+            "role" : "[DEV] Musician / Charter\n'springtrap <3'",
+            "icon" : "credits/devs/lolzeny",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/lolzenyreal"
+                }
+            ]
+        },
+        {
+            "name" : "Cosmic",
+            "role" : "[DEV] Artist / Animator \n'i need better ass'",
+            "icon" : "credits/devs/cosmic",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/cosmic457"
+                }
+            ]
+        },
+                {
+            "name" : "C4rr13 M4th",
+            "role" : "[DEV] Coder / Davey Synthwheel's Babygirl\n'ok the rumors are true i have schizophrenia'",
+            "icon" : "credits/devs/c4rr13",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/_C4rr13"
+                },
+                {
+                    "name" : "GitHub",
+                    "url" : "https://github.com/DubPuff"
+                }
+            ]
+        },
+        {
+            "name" : "Luminous",
+            "role" : "[DEV] Charter\n'break.ogg at 200 BPM through the slicex channel'",
+            "icon" : "credits/devs/luminous",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/Lun4rS0ulz_"
+                }
+            ]
+        },
+        {
+            "name" : "RockyWasHere",
+            "role" : "[DEV] Charter / Drew some of the portraits\n'Literally just fuck'",
+            "icon" : "credits/devs/rockywashere",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/RockyWasntHere"
+                }
+            ]
+        },
+                {
+            "name" : "Flootena",
+            "role" : "[DEV] Charter\n'MISSING'",
+            "icon" : "credits/devs/flootena",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/RockyWasntHere"
+                }
+            ]
+        },
+        {
+            "name" : "Nick is mid",
+            "role" : "[CONTRIBUTOR] Trift Concept Art\n'midness is everywhere in the air in the water and most importantly in your balls'",
+            "icon" : "credits/contributors/nick",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/NickIsMouse"
+                },
+                {
+                    "name" : "Sauce",
+                    "url" : "https://www.google.com/search?q=sauce&rlz=1C1WERZ_enUS992US993&sxsrf=ALiCzsY1xzya8IlkExUXmRyC0gO7jotJvw:1667047057859&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjkh9SduoX7AhXolGoFHVZSBe0Q_AUoAXoECAIQAw&biw=1536&bih=656&dpr=1.25#imgrc=mVee3oj9jOoCnM"
+                }
+            ]
+        },
+        {
+            "name" : "Walto",
+            "role" : "[CONTRIBUTOR] Helped with, and contributed to Corn N Roll",
+            "icon" : "credits/contributors/walto",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/Waltotwt"
+                }
+            ]
+        },
+        {
+            "name" : "Phoney",
+            "role" : "[CONTRIBUTOR] Playtester / Emotional Support\n'https://imgur.com/a/DnbPepK'",
+            "icon" : "credits/contributors/phoney",
+            "urls" : [
+                {
+                    "name" : "Phoney#8206",
+                    "url" : "https://imgur.com/a/DnbPepK"
+                }
+            ]
+        },
+        {
+            "name" : "Gilded",
+            "role" : "[CONTRIBUTOR] Former Funkipedia Page Editor\n'bouncy cats bouncing up and down'",
+            "icon" : "credits/contributors/crantaze",
+            "urls" : [
+                {
+                    "name" : "Gilded#2157",
+                    "url" : "https://www.youtube.com/watch?v=48j73ogAwbM"
+                }
+            ]
+        },
+        {
+            "name" : "Sawbutt",
+            "role" : "[CONTRIBUTOR] Funkin' At 3AM Collab\n'Peter Griffin'",
+            "icon" : "credits/contributors/sawbutt",
+            "urls" : [
+                {
+                    "name" : "Youtube",
+                    "url" : "https://www.youtube.com/@sawbutt"
+                }
+            ]
+        },
+        {
+            "name" : "Alyssa aka liabyte",
+            "role" : "[CONTRIBUTOR] Founder of Kitcite / Former Distribution help\n'most unhinged catgirl on the internet'",
+            "icon" : "credits/contributors/alyssa",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/liabyte"
+                },
+                {
+                    "name" : "Kitcite",
+                    "url" : "https://twitter.com/kitcite"
+                }
+            ]
+        },
+        {
+            "name" : "Sibottle",
+            "role" : "[CONTRIBUTOR] Youngest Rapper Collab\n'MISSING'",
+            "icon" : "credits/contributors/sibottle",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/Sibottle"
+                }
+            ]
+        },
+        {
+            "name" : "Techy!Harcvuk",
+            "role" : "[CONTRIBUTOR] Playtester / #1 Vs B&D Fan who has insight to the development\n'When the opportunity for chaos comes in, I always go for it.'",
+            "icon" : "credits/contributors/harcvuk",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/TechyJagger"
+                }
+            ]
+        },
+        {
+            "name" : "bobyt",
+            "role" : "[SPECIAL THANKS] Was the first person to ever bring light of attention to Vs B&D! Thank you so much!",
+            "icon" : "credits/specialthanks/bobyt",
+            "urls" : [
+                {
+                    "name" : "Youtube",
+                    "url" : "https://www.youtube.com/@bobyt"
+                }
+            ]
+        },
+        {
+            "name" : "Novasaur aka GF",
+            "role" : "[SPECIAL THANKS] GF Chromatic scale",
+            "icon" : "credits/specialthanks/novasaur",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/NNovasaur"
+                }
+            ]
+        },
+        {
+            "name" : "VS Ron Team",
+            "role" : "[SPECIAL THANKS] For being so powers\ndifficult              go play vs ron 3.0!!",
+            "icon" : "credits/specialthanks/Vs Ron Team",
+            "urls" : [
+                {
+                    "name" : "Mod Link",
+                    "url" : "https://gamebanana.com/mods/460273"
+                }
+            ]
+        },
+                {
+            "name" : "Chillspace",
+            "role" : "[SPECIAL THANKS] Bamber's Chromatic Scale",
+            "icon" : "credits/specialthanks/Chillspace",
+            "urls" : [
+                {
+                    "name" : "Twitter",
+                    "url" : "https://twitter.com/ChillSpaceIRL"
+                },
+                {
+                    "name" : "YouTube",
+                    "url" : "https://www.youtube.com/@chillspaceirl"
+                }
+            ]
+        }
+    ]
+}

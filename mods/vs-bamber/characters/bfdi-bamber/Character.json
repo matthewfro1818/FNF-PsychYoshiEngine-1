@@ -1,0 +1,169 @@
+{
+	"arrowColors": [
+		"#00AF09",
+		"#00AF0B",
+		"#00AF0B",
+		"#00AF0B"
+	],
+	"camOffset": {
+		"x": -20,
+		"y": 170
+	},
+	"globalOffset": {
+		"x": -130,
+		"y": -45
+	},
+	"healthbarColor": "#24A26A",
+	"flipX": false,
+	"anims": [
+		{
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"x": 3,
+			"y": 7,
+			"anim": "Corny-Up",
+			"loop": false,
+			"name": "singUP-end",
+			"framerate": 24
+		},
+		{
+			"indices": [
+				1,
+				2,
+				3
+			],
+			"x": -1,
+			"y": -7,
+			"anim": "Corny-Down",
+			"loop": false,
+			"name": "singDOWN",
+			"framerate": 24
+		},
+		{
+			"indices": [
+				1,
+				2,
+				3
+			],
+			"x": 3,
+			"y": 7,
+			"anim": "Corny-Up",
+			"loop": false,
+			"name": "singUP",
+			"framerate": 24
+		},
+		{
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"x": -18,
+			"y": -1,
+			"anim": "Corny-Right",
+			"loop": false,
+			"name": "singRIGHT-end",
+			"framerate": 24
+		},
+		{
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"x": 38,
+			"y": -2,
+			"anim": "Corny-Left",
+			"loop": false,
+			"name": "singLEFT-end",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": 0,
+			"y": 0,
+			"anim": "Corny-Idle",
+			"loop": false,
+			"name": "idle",
+			"framerate": 24
+		},
+		{
+			"indices": [
+				1,
+				2,
+				3
+			],
+			"x": -18,
+			"y": -1,
+			"anim": "Corny-Right",
+			"loop": false,
+			"name": "singRIGHT",
+			"framerate": 24
+		},
+		{
+			"indices": [
+				1,
+				2,
+				3
+			],
+			"x": 38,
+			"y": -2,
+			"anim": "Corny-Left",
+			"loop": false,
+			"name": "singLEFT",
+			"framerate": 24
+		},
+		{
+			"indices": [
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"x": -1,
+			"y": -7,
+			"anim": "Corny-Down",
+			"loop": false,
+			"name": "singDOWN-end",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -8,
+			"y": -2,
+			"anim": "Corny-Gasp",
+			"loop": false,
+			"name": "gasp",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}

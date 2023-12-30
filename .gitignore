@@ -1,0 +1,14 @@
+/export/
+/.vscode/
+/source - Copy/
+/source_old/
+/source_backup/
+/source_hscript_backup/
+/mods/Week7/
+/mods/CrumbCat/
+/yoshicrafterengine/doc.xml
+/source/APIStuff.hx
+oxipng.exe
+folder-alias.json
+template_mod.zip
+dump/

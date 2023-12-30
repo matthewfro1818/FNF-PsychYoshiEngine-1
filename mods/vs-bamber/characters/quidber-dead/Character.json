@@ -1,0 +1,62 @@
+{
+	"arrowColors": [
+		"#71C419",
+		"#71C419",
+		"#71C419",
+		"#71C419"
+	],
+	"camOffset": {
+		"x": -70,
+		"y": 40
+	},
+	"globalOffset": {
+		"x": -22,
+		"y": 398
+	},
+	"healthbarColor": "#71C419",
+	"flipX": true,
+	"anims": [
+		{
+			"indices": null,
+			"x": -52,
+			"y": 25,
+			"anim": "Bamber Death End",
+			"loop": false,
+			"name": "deathConfirm",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -52,
+			"y": -2,
+			"anim": "Bamber Death Loop",
+			"loop": false,
+			"name": "deathLoop",
+			"framerate": 24
+		},
+		{
+			"indices": null,
+			"x": -31,
+			"y": 9,
+			"anim": "Bamber Death Start",
+			"loop": false,
+			"name": "firstDeath",
+			"framerate": 24
+		}
+	],
+	"danceSteps": [
+		"idle"
+	],
+	"antialiasing": true,
+	"healthIconSteps": [
+		[
+			20,
+			0
+		],
+		[
+			0,
+			1
+		]
+	],
+	"scale": 1
+}
