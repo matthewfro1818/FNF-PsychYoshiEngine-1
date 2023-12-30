@@ -53,6 +53,11 @@ jobs:
           haxelib git flixel-textureatlas-yoshiengine https://github.com/ThatOneIdiotXav/flixel-textureatlas-yoshiengine
           haxelib git hxCodec https://github.com/polybiusproxy/hxCodec
           haxelib git hscript-yoshiengine https://github.com/FNF-CNE-Devs/hscript-improved
+          haxelib git flixel-yc29 https://github.com/Yoshman29-FunkinArchive/flixel
+          haxelib install away3d
+          haxelib install hxCodec
+          haxelib install markdown
+          haxelib git flxanimate https://github.com/Dot-Stuff/flxanimate/
       - name: compilation
         run: |
           haxelib run lime build windows -dce no
