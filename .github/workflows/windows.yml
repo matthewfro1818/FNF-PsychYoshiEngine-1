@@ -46,6 +46,9 @@ jobs:
           haxelib install newgrounds
           haxelib install linc_luajit
           haxelib install hxp
+          haxelib install away3d
+          haxelib install hxCodec
+          haxelib install markdown
           haxelib install hxcpp-debug-server
           haxelib git faxe https://github.com/uhrobots/faxe
           haxelib git polymod https://github.com/MasterEric/polymod.git
@@ -54,10 +57,8 @@ jobs:
           haxelib git hxCodec https://github.com/polybiusproxy/hxCodec
           haxelib git hscript-yoshiengine https://github.com/FNF-CNE-Devs/hscript-improved
           haxelib git flixel-yc29 https://github.com/Yoshman29-FunkinArchive/flixel
-          haxelib install away3d
-          haxelib install hxCodec
-          haxelib install markdown
           haxelib git flxanimate https://github.com/Dot-Stuff/flxanimate/
+          haxelib git discord-rpc-yce https://github.com/Snoni/discord-rpc-yce
       - name: compilation
         run: |
           haxelib run lime build windows -dce no
