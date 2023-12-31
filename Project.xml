@@ -99,8 +99,8 @@
 	<!-- yoshicrafter29 flixel comes bundled in with addons and ui as well so dw -->
 	<haxelib name="flixel" />
 
-	<haxelib name="openfl" />
-	
+	<haxelib name="lime" />
+
 	<haxelib name="hscript-yoshiengine" />
 
 	<haxelib name="linc_luajit" /> <!-- https://github.com/nebulazorua/linc_luajit --> 
