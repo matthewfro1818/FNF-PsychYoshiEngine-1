@@ -1,14 +1,10 @@
 package flixel.addons.ui;
 
-import flixel.addons.ui.interfaces.IFlxUIWidget;
-import flixel.addons.ui.interfaces.IHasParams;
-import flixel.addons.ui.interfaces.IResizable;
-
 /**
  * @author Lars Doucet
  * Modified by PlankDev to support cut/copy/paste
  */
-class FlxUIInputText extends FlxInputText implements IResizable implements IFlxUIWidget implements IHasParams
+class FlxUIInputText extends FlxInputText
 {
 	public var name:String;
 

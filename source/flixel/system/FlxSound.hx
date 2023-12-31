@@ -1,9 +1,8 @@
 package flixel.system;
 
-import openfl.events.IEventDispatcher;
 import openfl.events.Event;
+import openfl.events.IEventDispatcher;
 import openfl.media.Sound;
-// import flash.media.SoundChannel;
 import openfl.media.SoundChannel;
 import openfl.media.SoundTransform;
 import openfl.net.URLRequest;
@@ -16,7 +15,7 @@ import flixel.tweens.FlxTween;
 import flixel.util.FlxStringUtil;
 import openfl.Assets;
 #if flash11
-import flash.utils.ByteArray;
+import openfl.utils.ByteArray;
 #end
 #if (openfl >= "8.0.0")
 import openfl.utils.AssetType;
@@ -229,6 +228,7 @@ class FlxSound extends FlxBasic
 		_time = 0;
 		_paused = false;
 		_volume = 1.0;
+		_pitch = 1.0;
 		_volumeAdjust = 1.0;
 		looped = false;
 		loopTime = 0.0;
@@ -586,16 +586,23 @@ class FlxSound extends FlxBasic
 	@:allow(flixel.system.FlxSoundGroup)
 	function updateTransform():Void
 	{
-		// aint fixing this shit fuck
-		try {
-			_transform.volume = #if FLX_SOUND_SYSTEM (FlxG.sound.muted ? 0 : 1) * FlxG.sound.volume * #end
-				(group != null ? group.volume : 1) * _volume * _volumeAdjust;
-		} catch(e) {
-
-		}
+		_transform.volume = #if FLX_SOUND_SYSTEM (FlxG.sound.muted ? 0 : 1) * FlxG.sound.volume * #end
+			(group != null ? group.volume : 1) * _volume * _volumeAdjust;
 
 		if (_channel != null)
+		{
 			_channel.soundTransform = _transform;
+
+			@:privateAccess
+			if(_channel.__source != null)
+			{
+				#if cpp
+				@:privateAccess
+				this._channel.__source.__backend.setPitch(_pitch);
+				// trace('changing $name pitch new $_pitch');
+				#end
+			}
+		}
 	}
 
 	/**
@@ -746,8 +753,6 @@ class FlxSound extends FlxBasic
 
 	function set_pitch(v:Float):Float
 	{
-		if (_channel != null)
-			_channel.pitch = v;
 		return _pitch = v;
 	}
 
@@ -787,7 +792,8 @@ class FlxSound extends FlxBasic
 			LabelValuePair.weak("playing", playing),
 			LabelValuePair.weak("time", time),
 			LabelValuePair.weak("length", length),
-			LabelValuePair.weak("volume", volume)
+			LabelValuePair.weak("volume", volume),
+			LabelValuePair.weak("pitch", pitch)
 		]);
 	}
 }

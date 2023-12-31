@@ -1,10 +1,9 @@
 package flixel.addons.ui;
 
 import lime.system.Clipboard;
-import flash.errors.Error;
-import flash.events.KeyboardEvent;
-import flash.geom.Rectangle;
-import flixel.addons.ui.FlxUI.NamedString;
+import openfl.errors.Error;
+import openfl.events.KeyboardEvent;
+import openfl.geom.Rectangle;
 import flixel.FlxG;
 import flixel.FlxSprite;
 import flixel.math.FlxPoint;
@@ -846,8 +845,6 @@ class FlxInputText extends FlxText
 		{
 			params = [];
 		}
-		var namedValue:NamedString = {name: "value", value: text};
-		params.push(namedValue);
 		return p;
 	}
 
