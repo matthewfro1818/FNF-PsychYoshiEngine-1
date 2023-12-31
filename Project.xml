@@ -98,6 +98,8 @@
 
 	<!-- yoshicrafter29 flixel comes bundled in with addons and ui as well so dw -->
 	<haxelib name="flixel" />
+
+	<haxelib name="openfl" />
 	
 	<haxelib name="hscript-yoshiengine" />
 
