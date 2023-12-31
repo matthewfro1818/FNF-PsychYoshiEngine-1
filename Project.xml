@@ -97,7 +97,7 @@
 	<haxelib name="hxCodec"/> <!-- new mp4 cutscenes handler yippee!! !-->
 
 	<!-- yoshicrafter29 flixel comes bundled in with addons and ui as well so dw -->
-	<haxelib name="flixel-yc29" rename="flixel" />
+	<haxelib name="flixel" />
 	
 	<haxelib name="hscript-yoshiengine" />
 
