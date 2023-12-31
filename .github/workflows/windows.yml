@@ -57,6 +57,7 @@ jobs:
           haxelib git hscript-yoshiengine https://github.com/FNF-CNE-Devs/hscript-improved
           haxelib remove flixel
           haxelib git flixel https://github.com/matthewfro1818/flixel
+          haxe git lime https://github.com/openfl/lime
           haxelib git flxanimate https://github.com/Dot-Stuff/flxanimate
           haxelib git discord_rpc_yce https://github.com/Aidan63/linc_discord-rpc
           haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit
